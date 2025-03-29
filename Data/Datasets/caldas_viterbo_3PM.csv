@@ -1,493 +1,307 @@
-Edad,Total,Hombre,Mujer,Area
-0,119.0,63,56,total
-1,120.0,60,60,total
-2,133.0,72,61,total
-3,120.0,65,55,total
-4,128.0,70,58,total
-Total grupo edad,620.0,330,290,total
-5,128.0,64,64,total
-6,138.0,64,74,total
-7,161.0,85,76,total
-8,149.0,69,80,total
-9,166.0,90,76,total
-Total grupo edad,742.0,372,370,total
-10,179.0,98,81,total
-11,173.0,87,86,total
-12,167.0,85,82,total
-13,212.0,96,116,total
-14,210.0,95,115,total
-Total grupo edad,941.0,461,480,total
-15,219.0,114,105,total
-16,205.0,101,104,total
-17,230.0,123,107,total
-18,210.0,95,115,total
-19,209.0,101,108,total
-Total grupo edad,1073.0,534,539,total
-20,188.0,85,103,total
-21,194.0,92,102,total
-22,179.0,82,97,total
-23,202.0,91,111,total
-24,195.0,98,97,total
-Total grupo edad,958.0,448,510,total
-25,191.0,84,107,total
-26,167.0,86,81,total
-27,173.0,90,83,total
-28,164.0,83,81,total
-29,160.0,80,80,total
-Total grupo edad,855.0,423,432,total
-30,173.0,93,80,total
-31,150.0,71,79,total
-32,152.0,56,96,total
-33,153.0,67,86,total
-34,151.0,73,78,total
-Total grupo edad,779.0,360,419,total
-35,169.0,77,92,total
-36,170.0,83,87,total
-37,159.0,76,83,total
-38,190.0,90,100,total
-39,152.0,66,86,total
-Total grupo edad,840.0,392,448,total
-40,156.0,68,88,total
-41,170.0,81,89,total
-42,140.0,63,77,total
-43,139.0,59,80,total
-44,142.0,67,75,total
-Total grupo edad,747.0,338,409,total
-45,156.0,77,79,total
-46,164.0,79,85,total
-47,191.0,81,110,total
-48,177.0,86,91,total
-49,164.0,65,99,total
-Total grupo edad,852.0,388,464,total
-50,156.0,73,83,total
-51,168.0,89,79,total
-52,170.0,72,98,total
-53,168.0,68,100,total
-54,184.0,81,103,total
-Total grupo edad,846.0,383,463,total
-55,177.0,85,92,total
-56,151.0,72,79,total
-57,165.0,64,101,total
-58,151.0,59,92,total
-59,141.0,65,76,total
-Total grupo edad,785.0,345,440,total
-60,145.0,74,71,total
-61,134.0,57,77,total
-62,131.0,63,68,total
-63,123.0,63,60,total
-64,117.0,65,52,total
-Total grupo edad,650.0,322,328,total
-65,137.0,75,62,total
-66,120.0,61,59,total
-67,112.0,47,65,total
-68,112.0,39,73,total
-69,92.0,44,48,total
-Total grupo edad,573.0,266,307,total
-70,90.0,38,52,total
-71,88.0,41,47,total
-72,84.0,35,49,total
-73,89.0,36,53,total
-74,83.0,43,40,total
-Total grupo edad,434.0,193,241,total
-75,83.0,38,45,total
-76,70.0,21,49,total
-77,69.0,32,37,total
-78,73.0,29,44,total
-79,57.0,29,28,total
-Total grupo edad,352.0,149,203,total
-80,42.0,18,24,total
-81,44.0,18,26,total
-82,41.0,18,23,total
-83,40.0,21,19,total
-84,45.0,23,22,total
-Total grupo edad,212.0,98,114,total
-85,30.0,12,18,total
-86,25.0,13,12,total
-87,26.0,15,11,total
-88,18.0,11,7,total
-89,14.0,9,5,total
-Total grupo edad,113.0,60,53,total
-90,19.0,11,8,total
-91,10.0,4,6,total
-92,9.0,5,4,total
-93,4.0,1,3,total
-94,6.0,1,5,total
-Total grupo edad,48.0,22,26,total
-95,2.0,1,1,total
-96,2.0,0,2,total
-97,3.0,2,1,total
-98,1.0,1,0,total
-Total grupo edad,8.0,4,4,total
-101,2.0,1,1,total
-102,1.0,0,1,total
-103,1.0,0,1,total
-Total grupo edad,4.0,1,3,total
-0,95,53,42,cabecera
-1,101,48,53,cabecera
-2,117,65,52,cabecera
-3,104,59,45,cabecera
-4,106,61,45,cabecera
-Total grupo edad,523,286,237,cabecera
-5,105,50,55,cabecera
-6,119,51,68,cabecera
-7,137,71,66,cabecera
-8,129,62,67,cabecera
-9,130,73,57,cabecera
-Total grupo edad,620,307,313,cabecera
-10,143,78,65,cabecera
-11,146,70,76,cabecera
-12,146,75,71,cabecera
-13,177,79,98,cabecera
-14,167,71,96,cabecera
-Total grupo edad,779,373,406,cabecera
-15,183,91,92,cabecera
-16,173,85,88,cabecera
-17,186,96,90,cabecera
-18,166,74,92,cabecera
-19,178,83,95,cabecera
-Total grupo edad,886,429,457,cabecera
-20,160,71,89,cabecera
-21,169,78,91,cabecera
-22,157,69,88,cabecera
-23,178,84,94,cabecera
-24,171,89,82,cabecera
-Total grupo edad,835,391,444,cabecera
-25,167,72,95,cabecera
-26,147,75,72,cabecera
-27,148,79,69,cabecera
-28,149,74,75,cabecera
-29,137,65,72,cabecera
-Total grupo edad,748,365,383,cabecera
-30,146,78,68,cabecera
-31,126,58,68,cabecera
-32,137,54,83,cabecera
-33,135,63,72,cabecera
-34,130,64,66,cabecera
-Total grupo edad,674,317,357,cabecera
-35,142,64,78,cabecera
-36,154,73,81,cabecera
-37,139,69,70,cabecera
-38,163,76,87,cabecera
-39,125,51,74,cabecera
-Total grupo edad,723,333,390,cabecera
-40,130,58,72,cabecera
-41,145,65,80,cabecera
-42,114,50,64,cabecera
-43,123,53,70,cabecera
-44,122,57,65,cabecera
-Total grupo edad,634,283,351,cabecera
-45,130,62,68,cabecera
-46,144,66,78,cabecera
-47,167,70,97,cabecera
-48,154,73,81,cabecera
-49,141,50,91,cabecera
-Total grupo edad,736,321,415,cabecera
-50,137,59,78,cabecera
-51,146,80,66,cabecera
-52,149,59,90,cabecera
-53,144,61,83,cabecera
-54,154,66,88,cabecera
-Total grupo edad,730,325,405,cabecera
-55,154,73,81,cabecera
-56,136,60,76,cabecera
-57,145,56,89,cabecera
-58,133,48,85,cabecera
-59,118,50,68,cabecera
-Total grupo edad,686,287,399,cabecera
-60,122,64,58,cabecera
-61,116,46,70,cabecera
-62,111,55,56,cabecera
-63,100,53,47,cabecera
-64,100,51,49,cabecera
-Total grupo edad,549,269,280,cabecera
-65,112,56,56,cabecera
-66,106,50,56,cabecera
-67,102,44,58,cabecera
-68,97,32,65,cabecera
-69,79,41,38,cabecera
-Total grupo edad,496,223,273,cabecera
-70,68,24,44,cabecera
-71,78,35,43,cabecera
-72,73,29,44,cabecera
-73,81,34,47,cabecera
-74,74,36,38,cabecera
-Total grupo edad,374,158,216,cabecera
-75,75,32,43,cabecera
-76,66,20,46,cabecera
-77,63,28,35,cabecera
-78,68,27,41,cabecera
-79,50,23,27,cabecera
-Total grupo edad,322,130,192,cabecera
-80,37,14,23,cabecera
-81,43,17,26,cabecera
-82,40,17,23,cabecera
-83,34,17,17,cabecera
-84,42,20,22,cabecera
-Total grupo edad,196,85,111,cabecera
-85,28,12,16,cabecera
-86,22,11,11,cabecera
-87,24,13,11,cabecera
-88,17,10,7,cabecera
-89,12,7,5,cabecera
-Total grupo edad,103,53,50,cabecera
-90,17,10,7,cabecera
-91,9,3,6,cabecera
-92,9,5,4,cabecera
-93,4,1,3,cabecera
-94,6,1,5,cabecera
-Total grupo edad,45,20,25,cabecera
-95,2,1,1,cabecera
-96,2,0,2,cabecera
-97,3,2,1,cabecera
-98,1,1,0,cabecera
-Total grupo edad,8,4,4,cabecera
-101,2,1,1,cabecera
-102,1,0,1,cabecera
-103,1,0,1,cabecera
-Total grupo edad,4,1,3,cabecera
-0,0,0,0,centro poblado
-1,0,0,0,centro poblado
-2,0,0,0,centro poblado
-3,0,0,0,centro poblado
-4,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-5,0,0,0,centro poblado
-6,0,0,0,centro poblado
-7,0,0,0,centro poblado
-8,0,0,0,centro poblado
-9,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-10,0,0,0,centro poblado
-11,0,0,0,centro poblado
-12,0,0,0,centro poblado
-13,0,0,0,centro poblado
-14,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-15,0,0,0,centro poblado
-16,0,0,0,centro poblado
-17,0,0,0,centro poblado
-18,0,0,0,centro poblado
-19,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-20,0,0,0,centro poblado
-21,0,0,0,centro poblado
-22,0,0,0,centro poblado
-23,0,0,0,centro poblado
-24,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-25,0,0,0,centro poblado
-26,0,0,0,centro poblado
-27,0,0,0,centro poblado
-28,0,0,0,centro poblado
-29,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-30,0,0,0,centro poblado
-31,0,0,0,centro poblado
-32,0,0,0,centro poblado
-33,0,0,0,centro poblado
-34,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-35,0,0,0,centro poblado
-36,0,0,0,centro poblado
-37,0,0,0,centro poblado
-38,0,0,0,centro poblado
-39,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-40,0,0,0,centro poblado
-41,0,0,0,centro poblado
-42,0,0,0,centro poblado
-43,0,0,0,centro poblado
-44,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-45,0,0,0,centro poblado
-46,0,0,0,centro poblado
-47,0,0,0,centro poblado
-48,0,0,0,centro poblado
-49,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-50,0,0,0,centro poblado
-51,0,0,0,centro poblado
-52,0,0,0,centro poblado
-53,0,0,0,centro poblado
-54,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-55,0,0,0,centro poblado
-56,0,0,0,centro poblado
-57,0,0,0,centro poblado
-58,0,0,0,centro poblado
-59,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-60,0,0,0,centro poblado
-61,0,0,0,centro poblado
-62,0,0,0,centro poblado
-63,0,0,0,centro poblado
-64,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-65,0,0,0,centro poblado
-66,0,0,0,centro poblado
-67,0,0,0,centro poblado
-68,0,0,0,centro poblado
-69,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-70,0,0,0,centro poblado
-71,0,0,0,centro poblado
-72,0,0,0,centro poblado
-73,0,0,0,centro poblado
-74,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-75,0,0,0,centro poblado
-76,0,0,0,centro poblado
-77,0,0,0,centro poblado
-78,0,0,0,centro poblado
-79,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-80,0,0,0,centro poblado
-81,0,0,0,centro poblado
-82,0,0,0,centro poblado
-83,0,0,0,centro poblado
-84,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-85,0,0,0,centro poblado
-86,0,0,0,centro poblado
-87,0,0,0,centro poblado
-88,0,0,0,centro poblado
-89,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-90,0,0,0,centro poblado
-91,0,0,0,centro poblado
-92,0,0,0,centro poblado
-93,0,0,0,centro poblado
-94,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-95,0,0,0,centro poblado
-96,0,0,0,centro poblado
-97,0,0,0,centro poblado
-98,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-101,0,0,0,centro poblado
-102,0,0,0,centro poblado
-103,0,0,0,centro poblado
-Total grupo edad,0,0,0,centro poblado
-0,24,10,14,rural disperso
-1,19,12,7,rural disperso
-2,16,7,9,rural disperso
-3,16,6,10,rural disperso
-4,22,9,13,rural disperso
-Total grupo edad,97,44,53,rural disperso
-5,23,14,9,rural disperso
-6,19,13,6,rural disperso
-7,24,14,10,rural disperso
-8,20,7,13,rural disperso
-9,36,17,19,rural disperso
-Total grupo edad,122,65,57,rural disperso
-10,36,20,16,rural disperso
-11,27,17,10,rural disperso
-12,21,10,11,rural disperso
-13,35,17,18,rural disperso
-14,43,24,19,rural disperso
-Total grupo edad,162,88,74,rural disperso
-15,36,23,13,rural disperso
-16,32,16,16,rural disperso
-17,44,27,17,rural disperso
-18,44,21,23,rural disperso
-19,31,18,13,rural disperso
-Total grupo edad,187,105,82,rural disperso
-20,28,14,14,rural disperso
-21,25,14,11,rural disperso
-22,22,13,9,rural disperso
-23,24,7,17,rural disperso
-24,24,9,15,rural disperso
-Total grupo edad,123,57,66,rural disperso
-25,24,12,12,rural disperso
-26,20,11,9,rural disperso
-27,25,11,14,rural disperso
-28,15,9,6,rural disperso
-29,23,15,8,rural disperso
-Total grupo edad,107,58,49,rural disperso
-30,27,15,12,rural disperso
-31,24,13,11,rural disperso
-32,15,2,13,rural disperso
-33,18,4,14,rural disperso
-34,21,9,12,rural disperso
-Total grupo edad,105,43,62,rural disperso
-35,27,13,14,rural disperso
-36,16,10,6,rural disperso
-37,20,7,13,rural disperso
-38,27,14,13,rural disperso
-39,27,15,12,rural disperso
-Total grupo edad,117,59,58,rural disperso
-40,26,10,16,rural disperso
-41,25,16,9,rural disperso
-42,26,13,13,rural disperso
-43,16,6,10,rural disperso
-44,20,10,10,rural disperso
-Total grupo edad,113,55,58,rural disperso
-45,26,15,11,rural disperso
-46,20,13,7,rural disperso
-47,24,11,13,rural disperso
-48,23,13,10,rural disperso
-49,23,15,8,rural disperso
-Total grupo edad,116,67,49,rural disperso
-50,19,14,5,rural disperso
-51,22,9,13,rural disperso
-52,21,13,8,rural disperso
-53,24,7,17,rural disperso
-54,30,15,15,rural disperso
-Total grupo edad,116,58,58,rural disperso
-55,23,12,11,rural disperso
-56,15,12,3,rural disperso
-57,20,8,12,rural disperso
-58,18,11,7,rural disperso
-59,23,15,8,rural disperso
-Total grupo edad,99,58,41,rural disperso
-60,23,10,13,rural disperso
-61,18,11,7,rural disperso
-62,20,8,12,rural disperso
-63,23,10,13,rural disperso
-64,17,14,3,rural disperso
-Total grupo edad,101,53,48,rural disperso
-65,25,19,6,rural disperso
-66,14,11,3,rural disperso
-67,10,3,7,rural disperso
-68,15,7,8,rural disperso
-69,13,3,10,rural disperso
-Total grupo edad,77,43,34,rural disperso
-70,22,14,8,rural disperso
-71,10,6,4,rural disperso
-72,11,6,5,rural disperso
-73,8,2,6,rural disperso
-74,9,7,2,rural disperso
-Total grupo edad,60,35,25,rural disperso
-75,8,6,2,rural disperso
-76,4,1,3,rural disperso
-77,6,4,2,rural disperso
-78,5,2,3,rural disperso
-79,7,6,1,rural disperso
-Total grupo edad,30,19,11,rural disperso
-80,5,4,1,rural disperso
-81,1,1,0,rural disperso
-82,1,1,0,rural disperso
-83,6,4,2,rural disperso
-84,3,3,0,rural disperso
-Total grupo edad,16,13,3,rural disperso
-85,2,0,2,rural disperso
-86,3,2,1,rural disperso
-87,2,2,0,rural disperso
-88,1,1,0,rural disperso
-89,2,2,0,rural disperso
-Total grupo edad,10,7,3,rural disperso
-90,2,1,1,rural disperso
-91,1,1,0,rural disperso
-92,0,0,0,rural disperso
-93,0,0,0,rural disperso
-94,0,0,0,rural disperso
-Total grupo edad,3,2,1,rural disperso
-95,0,0,0,rural disperso
-96,0,0,0,rural disperso
-97,0,0,0,rural disperso
-98,0,0,0,rural disperso
-Total grupo edad,0,0,0,rural disperso
-101,0,0,0,rural disperso
-102,0,0,0,rural disperso
-103,0,0,0,rural disperso
-Total grupo edad,0,0,0,rural disperso
+Edad,Hombre,Mujer,Area
+0,53,42,cabecera
+1,48,53,cabecera
+2,65,52,cabecera
+3,59,45,cabecera
+4,61,45,cabecera
+5,50,55,cabecera
+6,51,68,cabecera
+7,71,66,cabecera
+8,62,67,cabecera
+9,73,57,cabecera
+10,78,65,cabecera
+11,70,76,cabecera
+12,75,71,cabecera
+13,79,98,cabecera
+14,71,96,cabecera
+15,91,92,cabecera
+16,85,88,cabecera
+17,96,90,cabecera
+18,74,92,cabecera
+19,83,95,cabecera
+20,71,89,cabecera
+21,78,91,cabecera
+22,69,88,cabecera
+23,84,94,cabecera
+24,89,82,cabecera
+25,72,95,cabecera
+26,75,72,cabecera
+27,79,69,cabecera
+28,74,75,cabecera
+29,65,72,cabecera
+30,78,68,cabecera
+31,58,68,cabecera
+32,54,83,cabecera
+33,63,72,cabecera
+34,64,66,cabecera
+35,64,78,cabecera
+36,73,81,cabecera
+37,69,70,cabecera
+38,76,87,cabecera
+39,51,74,cabecera
+40,58,72,cabecera
+41,65,80,cabecera
+42,50,64,cabecera
+43,53,70,cabecera
+44,57,65,cabecera
+45,62,68,cabecera
+46,66,78,cabecera
+47,70,97,cabecera
+48,73,81,cabecera
+49,50,91,cabecera
+50,59,78,cabecera
+51,80,66,cabecera
+52,59,90,cabecera
+53,61,83,cabecera
+54,66,88,cabecera
+55,73,81,cabecera
+56,60,76,cabecera
+57,56,89,cabecera
+58,48,85,cabecera
+59,50,68,cabecera
+60,64,58,cabecera
+61,46,70,cabecera
+62,55,56,cabecera
+63,53,47,cabecera
+64,51,49,cabecera
+65,56,56,cabecera
+66,50,56,cabecera
+67,44,58,cabecera
+68,32,65,cabecera
+69,41,38,cabecera
+70,24,44,cabecera
+71,35,43,cabecera
+72,29,44,cabecera
+73,34,47,cabecera
+74,36,38,cabecera
+75,32,43,cabecera
+76,20,46,cabecera
+77,28,35,cabecera
+78,27,41,cabecera
+79,23,27,cabecera
+80,14,23,cabecera
+81,17,26,cabecera
+82,17,23,cabecera
+83,17,17,cabecera
+84,20,22,cabecera
+85,12,16,cabecera
+86,11,11,cabecera
+87,13,11,cabecera
+88,10,7,cabecera
+89,7,5,cabecera
+90,10,7,cabecera
+91,3,6,cabecera
+92,5,4,cabecera
+93,1,3,cabecera
+94,1,5,cabecera
+95,1,1,cabecera
+96,0,2,cabecera
+97,2,1,cabecera
+98,1,0,cabecera
+101,1,1,cabecera
+102,0,1,cabecera
+103,0,1,cabecera
+0,0,0,centro poblado
+1,0,0,centro poblado
+2,0,0,centro poblado
+3,0,0,centro poblado
+4,0,0,centro poblado
+5,0,0,centro poblado
+6,0,0,centro poblado
+7,0,0,centro poblado
+8,0,0,centro poblado
+9,0,0,centro poblado
+10,0,0,centro poblado
+11,0,0,centro poblado
+12,0,0,centro poblado
+13,0,0,centro poblado
+14,0,0,centro poblado
+15,0,0,centro poblado
+16,0,0,centro poblado
+17,0,0,centro poblado
+18,0,0,centro poblado
+19,0,0,centro poblado
+20,0,0,centro poblado
+21,0,0,centro poblado
+22,0,0,centro poblado
+23,0,0,centro poblado
+24,0,0,centro poblado
+25,0,0,centro poblado
+26,0,0,centro poblado
+27,0,0,centro poblado
+28,0,0,centro poblado
+29,0,0,centro poblado
+30,0,0,centro poblado
+31,0,0,centro poblado
+32,0,0,centro poblado
+33,0,0,centro poblado
+34,0,0,centro poblado
+35,0,0,centro poblado
+36,0,0,centro poblado
+37,0,0,centro poblado
+38,0,0,centro poblado
+39,0,0,centro poblado
+40,0,0,centro poblado
+41,0,0,centro poblado
+42,0,0,centro poblado
+43,0,0,centro poblado
+44,0,0,centro poblado
+45,0,0,centro poblado
+46,0,0,centro poblado
+47,0,0,centro poblado
+48,0,0,centro poblado
+49,0,0,centro poblado
+50,0,0,centro poblado
+51,0,0,centro poblado
+52,0,0,centro poblado
+53,0,0,centro poblado
+54,0,0,centro poblado
+55,0,0,centro poblado
+56,0,0,centro poblado
+57,0,0,centro poblado
+58,0,0,centro poblado
+59,0,0,centro poblado
+60,0,0,centro poblado
+61,0,0,centro poblado
+62,0,0,centro poblado
+63,0,0,centro poblado
+64,0,0,centro poblado
+65,0,0,centro poblado
+66,0,0,centro poblado
+67,0,0,centro poblado
+68,0,0,centro poblado
+69,0,0,centro poblado
+70,0,0,centro poblado
+71,0,0,centro poblado
+72,0,0,centro poblado
+73,0,0,centro poblado
+74,0,0,centro poblado
+75,0,0,centro poblado
+76,0,0,centro poblado
+77,0,0,centro poblado
+78,0,0,centro poblado
+79,0,0,centro poblado
+80,0,0,centro poblado
+81,0,0,centro poblado
+82,0,0,centro poblado
+83,0,0,centro poblado
+84,0,0,centro poblado
+85,0,0,centro poblado
+86,0,0,centro poblado
+87,0,0,centro poblado
+88,0,0,centro poblado
+89,0,0,centro poblado
+90,0,0,centro poblado
+91,0,0,centro poblado
+92,0,0,centro poblado
+93,0,0,centro poblado
+94,0,0,centro poblado
+95,0,0,centro poblado
+96,0,0,centro poblado
+97,0,0,centro poblado
+98,0,0,centro poblado
+101,0,0,centro poblado
+102,0,0,centro poblado
+103,0,0,centro poblado
+0,10,14,rural disperso
+1,12,7,rural disperso
+2,7,9,rural disperso
+3,6,10,rural disperso
+4,9,13,rural disperso
+5,14,9,rural disperso
+6,13,6,rural disperso
+7,14,10,rural disperso
+8,7,13,rural disperso
+9,17,19,rural disperso
+10,20,16,rural disperso
+11,17,10,rural disperso
+12,10,11,rural disperso
+13,17,18,rural disperso
+14,24,19,rural disperso
+15,23,13,rural disperso
+16,16,16,rural disperso
+17,27,17,rural disperso
+18,21,23,rural disperso
+19,18,13,rural disperso
+20,14,14,rural disperso
+21,14,11,rural disperso
+22,13,9,rural disperso
+23,7,17,rural disperso
+24,9,15,rural disperso
+25,12,12,rural disperso
+26,11,9,rural disperso
+27,11,14,rural disperso
+28,9,6,rural disperso
+29,15,8,rural disperso
+30,15,12,rural disperso
+31,13,11,rural disperso
+32,2,13,rural disperso
+33,4,14,rural disperso
+34,9,12,rural disperso
+35,13,14,rural disperso
+36,10,6,rural disperso
+37,7,13,rural disperso
+38,14,13,rural disperso
+39,15,12,rural disperso
+40,10,16,rural disperso
+41,16,9,rural disperso
+42,13,13,rural disperso
+43,6,10,rural disperso
+44,10,10,rural disperso
+45,15,11,rural disperso
+46,13,7,rural disperso
+47,11,13,rural disperso
+48,13,10,rural disperso
+49,15,8,rural disperso
+50,14,5,rural disperso
+51,9,13,rural disperso
+52,13,8,rural disperso
+53,7,17,rural disperso
+54,15,15,rural disperso
+55,12,11,rural disperso
+56,12,3,rural disperso
+57,8,12,rural disperso
+58,11,7,rural disperso
+59,15,8,rural disperso
+60,10,13,rural disperso
+61,11,7,rural disperso
+62,8,12,rural disperso
+63,10,13,rural disperso
+64,14,3,rural disperso
+65,19,6,rural disperso
+66,11,3,rural disperso
+67,3,7,rural disperso
+68,7,8,rural disperso
+69,3,10,rural disperso
+70,14,8,rural disperso
+71,6,4,rural disperso
+72,6,5,rural disperso
+73,2,6,rural disperso
+74,7,2,rural disperso
+75,6,2,rural disperso
+76,1,3,rural disperso
+77,4,2,rural disperso
+78,2,3,rural disperso
+79,6,1,rural disperso
+80,4,1,rural disperso
+81,1,0,rural disperso
+82,1,0,rural disperso
+83,4,2,rural disperso
+84,3,0,rural disperso
+85,0,2,rural disperso
+86,2,1,rural disperso
+87,2,0,rural disperso
+88,1,0,rural disperso
+89,2,0,rural disperso
+90,1,1,rural disperso
+91,1,0,rural disperso
+92,0,0,rural disperso
+93,0,0,rural disperso
+94,0,0,rural disperso
+95,0,0,rural disperso
+96,0,0,rural disperso
+97,0,0,rural disperso
+98,0,0,rural disperso
+101,0,0,rural disperso
+102,0,0,rural disperso
+103,0,0,rural disperso
