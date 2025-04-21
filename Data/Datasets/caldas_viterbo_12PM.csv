@@ -17,39 +17,39 @@ Grupo edad,Indigena,Gitano(a) o Rrom,"Raizal del Archipielago de San Andres, Pro
 75-79 anios,0,0,0,0,2,320,0,cabecera
 80-84 anios,1,0,0,0,1,193,1,cabecera
 85 anios y mas,1,0,0,0,2,156,1,cabecera
-0-4 anios,0,0,0,0,0,0,0,centro poblado
-5-9 anios,0,0,0,0,0,0,0,centro poblado
-10-14 anios,0,0,0,0,0,0,0,centro poblado
-15-19 anios,0,0,0,0,0,0,0,centro poblado
-20-24 anios,0,0,0,0,0,0,0,centro poblado
-25-29 anios,0,0,0,0,0,0,0,centro poblado
-30-34 anios,0,0,0,0,0,0,0,centro poblado
-35-39 anios,0,0,0,0,0,0,0,centro poblado
-40-44 anios,0,0,0,0,0,0,0,centro poblado
-45-49 anios,0,0,0,0,0,0,0,centro poblado
-50-54 anios,0,0,0,0,0,0,0,centro poblado
-55-59 anios,0,0,0,0,0,0,0,centro poblado
-60-64 anios,0,0,0,0,0,0,0,centro poblado
-65-69 anios,0,0,0,0,0,0,0,centro poblado
-70-74 anios,0,0,0,0,0,0,0,centro poblado
-75-79 anios,0,0,0,0,0,0,0,centro poblado
-80-84 anios,0,0,0,0,0,0,0,centro poblado
-85 anios y mas,0,0,0,0,0,0,0,centro poblado
-0-4 anios,13,0,0,0,0,84,0,rural disperso
-5-9 anios,7,0,0,0,0,115,0,rural disperso
-10-14 anios,16,0,0,0,0,146,0,rural disperso
-15-19 anios,12,0,0,0,1,174,0,rural disperso
-20-24 anios,8,0,0,0,1,114,0,rural disperso
-25-29 anios,10,0,0,0,0,97,0,rural disperso
-30-34 anios,6,0,0,0,0,99,0,rural disperso
-35-39 anios,7,0,0,0,0,109,1,rural disperso
-40-44 anios,6,0,0,0,0,107,0,rural disperso
-45-49 anios,5,0,0,0,0,110,1,rural disperso
-50-54 anios,3,0,0,0,0,111,2,rural disperso
-55-59 anios,0,0,0,0,2,97,0,rural disperso
-60-64 anios,3,0,0,0,2,95,1,rural disperso
-65-69 anios,3,0,0,0,0,74,0,rural disperso
-70-74 anios,0,0,0,0,1,59,0,rural disperso
-75-79 anios,3,0,0,0,1,26,0,rural disperso
-80-84 anios,0,0,0,0,0,16,0,rural disperso
-85 anios y mas,0,0,0,0,0,13,0,rural disperso
+0-4 anios,0,0,0,0,0,0,0,centro_poblado
+5-9 anios,0,0,0,0,0,0,0,centro_poblado
+10-14 anios,0,0,0,0,0,0,0,centro_poblado
+15-19 anios,0,0,0,0,0,0,0,centro_poblado
+20-24 anios,0,0,0,0,0,0,0,centro_poblado
+25-29 anios,0,0,0,0,0,0,0,centro_poblado
+30-34 anios,0,0,0,0,0,0,0,centro_poblado
+35-39 anios,0,0,0,0,0,0,0,centro_poblado
+40-44 anios,0,0,0,0,0,0,0,centro_poblado
+45-49 anios,0,0,0,0,0,0,0,centro_poblado
+50-54 anios,0,0,0,0,0,0,0,centro_poblado
+55-59 anios,0,0,0,0,0,0,0,centro_poblado
+60-64 anios,0,0,0,0,0,0,0,centro_poblado
+65-69 anios,0,0,0,0,0,0,0,centro_poblado
+70-74 anios,0,0,0,0,0,0,0,centro_poblado
+75-79 anios,0,0,0,0,0,0,0,centro_poblado
+80-84 anios,0,0,0,0,0,0,0,centro_poblado
+85 anios y mas,0,0,0,0,0,0,0,centro_poblado
+0-4 anios,13,0,0,0,0,84,0,rural_disperso
+5-9 anios,7,0,0,0,0,115,0,rural_disperso
+10-14 anios,16,0,0,0,0,146,0,rural_disperso
+15-19 anios,12,0,0,0,1,174,0,rural_disperso
+20-24 anios,8,0,0,0,1,114,0,rural_disperso
+25-29 anios,10,0,0,0,0,97,0,rural_disperso
+30-34 anios,6,0,0,0,0,99,0,rural_disperso
+35-39 anios,7,0,0,0,0,109,1,rural_disperso
+40-44 anios,6,0,0,0,0,107,0,rural_disperso
+45-49 anios,5,0,0,0,0,110,1,rural_disperso
+50-54 anios,3,0,0,0,0,111,2,rural_disperso
+55-59 anios,0,0,0,0,2,97,0,rural_disperso
+60-64 anios,3,0,0,0,2,95,1,rural_disperso
+65-69 anios,3,0,0,0,0,74,0,rural_disperso
+70-74 anios,0,0,0,0,1,59,0,rural_disperso
+75-79 anios,3,0,0,0,1,26,0,rural_disperso
+80-84 anios,0,0,0,0,0,16,0,rural_disperso
+85 anios y mas,0,0,0,0,0,13,0,rural_disperso
