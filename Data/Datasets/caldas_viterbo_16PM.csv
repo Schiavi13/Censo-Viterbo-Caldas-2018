@@ -1,0 +1,37 @@
+Area,Grupo de edad,Total,Hombre,Mujer,Sabe_leer_y_escribir
+Total,De 5 anios y mas,11809,5559,6250,total
+Total,De 15 anios y mas,10126,4726,5400,total
+Total,Entre 15 y 24 anios,2028,982,1046,total
+Cabecera,De 5 anios y mas,10145,4674,5471,total
+Cabecera,De 15 anios y mas,8746,3994,4752,total
+Cabecera,Entre 15 y 24 anios,1718,820,898,total
+Rural disperso,De 5 anios y mas,1664,885,779,total
+Rural disperso,De 15 anios y mas,1380,732,648,total
+Rural disperso,Entre 15 y 24 anios,310,162,148,total
+Total,De 5 anios y mas,10859,5052,5807,si
+Total,De 15 anios y mas,9376,4318,5058,si
+Total,Entre 15 y 24 anios,1980,948,1032,si
+Cabecera,De 5 anios y mas,9339,4263,5076,si
+Cabecera,De 15 anios y mas,8107,3666,4441,si
+Cabecera,Entre 15 y 24 anios,1676,791,885,si
+Rural disperso,De 5 anios y mas,1520,789,731,si
+Rural disperso,De 15 anios y mas,1269,652,617,si
+Rural disperso,Entre 15 y 24 anios,304,157,147,si
+Total,De 5 anios y mas,890,474,416,no
+Total,De 15 anios y mas,699,381,318,no
+Total,Entre 15 y 24 anios,33,25,8,no
+Cabecera,De 5 anios y mas,752,382,370,no
+Cabecera,De 15 anios y mas,593,304,289,no
+Cabecera,Entre 15 y 24 anios,27,20,7,no
+Rural disperso,De 5 anios y mas,138,92,46,no
+Rural disperso,De 15 anios y mas,106,77,29,no
+Rural disperso,Entre 15 y 24 anios,6,5,1,no
+Total,De 5 anios y mas,60,33,27,sin_informacion
+Total,De 15 anios y mas,51,27,24,sin_informacion
+Total,Entre 15 y 24 anios,15,9,6,sin_informacion
+Cabecera,De 5 anios y mas,54,29,25,sin_informacion
+Cabecera,De 15 anios y mas,46,24,22,sin_informacion
+Cabecera,Entre 15 y 24 anios,15,9,6,sin_informacion
+Rural disperso,De 5 anios y mas,6,4,2,sin_informacion
+Rural disperso,De 15 anios y mas,5,3,2,sin_informacion
+Rural disperso,Entre 15 y 24 anios,0,0,0,sin_informacion
