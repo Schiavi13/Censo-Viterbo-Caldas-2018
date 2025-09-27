@@ -1,0 +1,85 @@
+Area,Grupo de edad,Total,Hombre,Mujer,Asiste_a_alguna_institucion_educativa
+Total,De 5 anios y mas,11809,5559,6250,Total
+Total,Entre 5 y 6 anios,266,128,138,Total
+Total,Entre 5 y 17 anios,2336,1171,1165,Total
+Total,Entre 7 y 11 anios,828,429,399,Total
+Total,Entre 12 y 17 anios,1242,614,628,Total
+Total,Entre 18 y 24 anios,1375,644,731,Total
+Total,De 25 anios y mas,8098,3744,4354,Total
+Cabecera,De 5 anios y mas,10145,4674,5471,Total
+Cabecera,Entre 5 y 6 anios,224,101,123,Total
+Cabecera,Entre 5 y 17 anios,1940,952,988,Total
+Cabecera,Entre 7 y 11 anios,685,354,331,Total
+Cabecera,Entre 12 y 17 anios,1031,497,534,Total
+Cabecera,Entre 18 y 24 anios,1177,548,629,Total
+Cabecera,De 25 anios y mas,7028,3174,3854,Total
+Rural disperso,De 5 anios y mas,1664,885,779,Total
+Rural disperso,Entre 5 y 6 anios,42,27,15,Total
+Rural disperso,Entre 5 y 17 anios,396,219,177,Total
+Rural disperso,Entre 7 y 11 anios,143,75,68,Total
+Rural disperso,Entre 12 y 17 anios,211,117,94,Total
+Rural disperso,Entre 18 y 24 anios,198,96,102,Total
+Rural disperso,De 25 anios y mas,1070,570,500,Total
+Total,De 5 anios y mas,2659,1251,1408,Si
+Total,Entre 5 y 6 anios,250,118,132,Si
+Total,Entre 5 y 17 anios,2123,1042,1081,Si
+Total,Entre 7 y 11 anios,809,419,390,Si
+Total,Entre 12 y 17 anios,1064,505,559,Si
+Total,Entre 18 y 24 anios,335,127,208,Si
+Total,De 25 anios y mas,201,82,119,Si
+Cabecera,De 5 anios y mas,2249,1038,1211,Si
+Cabecera,Entre 5 y 6 anios,212,94,118,Si
+Cabecera,Entre 5 y 17 anios,1783,857,926,Si
+Cabecera,Entre 7 y 11 anios,672,348,324,Si
+Cabecera,Entre 12 y 17 anios,899,415,484,Si
+Cabecera,Entre 18 y 24 anios,286,110,176,Si
+Cabecera,De 25 anios y mas,180,71,109,Si
+Rural disperso,De 5 anios y mas,410,213,197,Si
+Rural disperso,Entre 5 y 6 anios,38,24,14,Si
+Rural disperso,Entre 5 y 17 anios,340,185,155,Si
+Rural disperso,Entre 7 y 11 anios,137,71,66,Si
+Rural disperso,Entre 12 y 17 anios,165,90,75,Si
+Rural disperso,Entre 18 y 24 anios,49,17,32,Si
+Rural disperso,De 25 anios y mas,21,11,10,Si
+Total,De 5 anios y mas,9088,4275,4813,No
+Total,Entre 5 y 6 anios,10,5,5,No
+Total,Entre 5 y 17 anios,202,121,81,No
+Total,Entre 7 y 11 anios,18,10,8,No
+Total,Entre 12 y 17 anios,174,106,68,No
+Total,Entre 18 y 24 anios,1027,510,517,No
+Total,De 25 anios y mas,7859,3644,4215,No
+Cabecera,De 5 anios y mas,7840,3607,4233,No
+Cabecera,Entre 5 y 6 anios,7,3,4,No
+Cabecera,Entre 5 y 17 anios,147,88,59,No
+Cabecera,Entre 7 y 11 anios,12,6,6,No
+Cabecera,Entre 12 y 17 anios,128,79,49,No
+Cabecera,Entre 18 y 24 anios,878,431,447,No
+Cabecera,De 25 anios y mas,6815,3088,3727,No
+Rural disperso,De 5 anios y mas,1248,668,580,No
+Rural disperso,Entre 5 y 6 anios,3,2,1,No
+Rural disperso,Entre 5 y 17 anios,55,33,22,No
+Rural disperso,Entre 7 y 11 anios,6,4,2,No
+Rural disperso,Entre 12 y 17 anios,46,27,19,No
+Rural disperso,Entre 18 y 24 anios,149,79,70,No
+Rural disperso,De 25 anios y mas,1044,556,488,No
+Total,De 5 anios y mas,62,33,29,Sin informacion
+Total,Entre 5 y 6 anios,6,5,1,Sin informacion
+Total,Entre 5 y 17 anios,11,8,3,Sin informacion
+Total,Entre 7 y 11 anios,1,0,1,Sin informacion
+Total,Entre 12 y 17 anios,4,3,1,Sin informacion
+Total,Entre 18 y 24 anios,13,7,6,Sin informacion
+Total,De 25 anios y mas,38,18,20,Sin informacion
+Cabecera,De 5 anios y mas,56,29,27,Sin informacion
+Cabecera,Entre 5 y 6 anios,5,4,1,Sin informacion
+Cabecera,Entre 5 y 17 anios,10,7,3,Sin informacion
+Cabecera,Entre 7 y 11 anios,1,0,1,Sin informacion
+Cabecera,Entre 12 y 17 anios,4,3,1,Sin informacion
+Cabecera,Entre 18 y 24 anios,13,7,6,Sin informacion
+Cabecera,De 25 anios y mas,33,15,18,Sin informacion
+Rural disperso,De 5 anios y mas,6,4,2,Sin informacion
+Rural disperso,Entre 5 y 6 anios,1,1,0,Sin informacion
+Rural disperso,Entre 5 y 17 anios,1,1,0,Sin informacion
+Rural disperso,Entre 7 y 11 anios,0,0,0,Sin informacion
+Rural disperso,Entre 12 y 17 anios,0,0,0,Sin informacion
+Rural disperso,Entre 18 y 24 anios,0,0,0,Sin informacion
+Rural disperso,De 25 anios y mas,5,3,2,Sin informacion
