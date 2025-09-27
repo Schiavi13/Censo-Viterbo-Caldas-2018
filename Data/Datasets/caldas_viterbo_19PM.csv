@@ -1,0 +1,54 @@
+Area,Sexo,Pertenencia etnica,Total,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,Especializacion - Doctorado,Sin Informacion
+Total,Hombre,Indigena,74.0,2.0,2.0,10.0,33.0,2.0,13.0,10.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Total,Hombre,Gitano(a) o Rrom,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Hombre,Palenquero(a) de San Basilio,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Hombre,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",43.0,2.0,1.0,4.0,7.0,4.0,8.0,9.0,2.0,0.0,0.0,1.0,0.0,3.0,0.0,2.0
+Total,Hombre,Ningun grupo etnico,5410.0,300.0,120.0,817.0,1280.0,188.0,836.0,1217.0,137.0,0.0,9.0,120.0,56.0,252.0,57.0,21.0
+Total,Hombre,Sin Informacion ,30.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,28.0
+Total,Hombre,Total,5559.0,304.0,123.0,831.0,1321.0,194.0,857.0,1238.0,139.0,0.0,9.0,122.0,57.0,256.0,57.0,51.0
+Total,Mujer,Indigena,81.0,6.0,2.0,16.0,18.0,4.0,8.0,17.0,3.0,0.0,0.0,2.0,1.0,3.0,0.0,1.0
+Total,Mujer,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",44.0,4.0,0.0,4.0,7.0,2.0,13.0,10.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0
+Total,Mujer,Ningun grupo etnico,6104.0,262.0,128.0,853.0,1268.0,252.0,899.0,1579.0,157.0,6.0,4.0,235.0,59.0,322.0,63.0,17.0
+Total,Mujer,Sin Informacion ,24.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,23.0
+Total,Mujer,Total,6253.0,272.0,130.0,873.0,1293.0,258.0,920.0,1606.0,160.0,6.0,4.0,238.0,60.0,328.0,64.0,41.0
+Total,Total,Indigena,155.0,8.0,4.0,26.0,51.0,6.0,21.0,27.0,3.0,0.0,0.0,3.0,2.0,3.0,0.0,1.0
+Total,Total,Gitano(a) o Rrom,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Total,Palenquero(a) de San Basilio,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Total,Total,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",87.0,6.0,1.0,8.0,14.0,6.0,21.0,19.0,2.0,0.0,0.0,2.0,0.0,5.0,1.0,2.0
+Total,Total,Ningun grupo etnico,11514.0,562.0,248.0,1670.0,2548.0,440.0,1735.0,2796.0,294.0,6.0,13.0,355.0,115.0,574.0,120.0,38.0
+Total,Total,Sin Informacion ,54.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,51.0
+Total,Total,Total,11812.0,576.0,253.0,1704.0,2614.0,452.0,1777.0,2844.0,299.0,6.0,13.0,360.0,117.0,584.0,121.0,92.0
+Cabecera,Hombre,Indigena,27.0,0.0,0.0,5.0,9.0,0.0,4.0,7.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
+Cabecera,Hombre,Gitano(a) o Rrom,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cabecera,Hombre,Palenquero(a) de San Basilio,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cabecera,Hombre,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",39.0,1.0,1.0,4.0,7.0,3.0,7.0,8.0,2.0,0.0,0.0,1.0,0.0,3.0,0.0,2.0
+Cabecera,Hombre,Ningun grupo etnico,4579.0,257.0,96.0,690.0,976.0,165.0,705.0,1099.0,115.0,0.0,9.0,117.0,56.0,228.0,47.0,19.0
+Cabecera,Hombre,Sin Informacion ,27.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,25.0
+Cabecera,Hombre,Total,4674.0,258.0,97.0,699.0,993.0,168.0,716.0,1116.0,117.0,0.0,9.0,119.0,57.0,232.0,47.0,46.0
+Cabecera,Mujer,Indigena,39.0,2.0,0.0,8.0,6.0,2.0,6.0,8.0,1.0,0.0,0.0,1.0,1.0,3.0,0.0,1.0
+Cabecera,Mujer,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",40.0,3.0,0.0,3.0,7.0,2.0,12.0,9.0,0.0,0.0,0.0,1.0,0.0,2.0,1.0,0.0
+Cabecera,Mujer,Ningun grupo etnico,5373.0,246.0,113.0,742.0,1038.0,212.0,772.0,1447.0,137.0,5.0,3.0,227.0,54.0,304.0,56.0,17.0
+Cabecera,Mujer,Sin Informacion ,22.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,21.0
+Cabecera,Mujer,Total,5474.0,251.0,113.0,753.0,1051.0,216.0,790.0,1464.0,138.0,5.0,3.0,229.0,55.0,310.0,57.0,39.0
+Cabecera,Total,Indigena,66.0,2.0,0.0,13.0,15.0,2.0,10.0,15.0,1.0,0.0,0.0,2.0,2.0,3.0,0.0,1.0
+Cabecera,Total,Gitano(a) o Rrom,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cabecera,Total,Palenquero(a) de San Basilio,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cabecera,Total,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",79.0,4.0,1.0,7.0,14.0,5.0,19.0,17.0,2.0,0.0,0.0,2.0,0.0,5.0,1.0,2.0
+Cabecera,Total,Ningun grupo etnico,9952.0,503.0,209.0,1432.0,2014.0,377.0,1477.0,2546.0,252.0,5.0,12.0,344.0,110.0,532.0,103.0,36.0
+Cabecera,Total,Sin Informacion ,49.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,46.0
+Cabecera,Total,Total,10148.0,509.0,210.0,1452.0,2044.0,384.0,1506.0,2580.0,255.0,5.0,12.0,348.0,112.0,542.0,104.0,85.0
+Rural disperso,Hombre,Indigena,47.0,2.0,2.0,5.0,24.0,2.0,9.0,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rural disperso,Hombre,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",4.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rural disperso,Hombre,Ningun grupo etnico,831.0,43.0,24.0,127.0,304.0,23.0,131.0,118.0,22.0,0.0,0.0,3.0,0.0,24.0,10.0,2.0
+Rural disperso,Hombre,Sin Informacion ,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0
+Rural disperso,Hombre,Total,885.0,46.0,26.0,132.0,328.0,26.0,141.0,122.0,22.0,0.0,0.0,3.0,0.0,24.0,10.0,5.0
+Rural disperso,Mujer,Indigena,42.0,4.0,2.0,8.0,12.0,2.0,2.0,9.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Rural disperso,Mujer,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",4.0,1.0,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rural disperso,Mujer,Ningun grupo etnico,731.0,16.0,15.0,111.0,230.0,40.0,127.0,132.0,20.0,1.0,1.0,8.0,5.0,18.0,7.0,0.0
+Rural disperso,Mujer,Sin Informacion ,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
+Rural disperso,Mujer,Total,779.0,21.0,17.0,120.0,242.0,42.0,130.0,142.0,22.0,1.0,1.0,9.0,5.0,18.0,7.0,2.0
+Rural disperso,Total,Indigena,89.0,6.0,4.0,13.0,36.0,4.0,11.0,12.0,2.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Rural disperso,Total,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",8.0,2.0,0.0,1.0,0.0,1.0,2.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Rural disperso,Total,Ningun grupo etnico,1562.0,59.0,39.0,238.0,534.0,63.0,258.0,250.0,42.0,1.0,1.0,11.0,5.0,42.0,17.0,2.0
+Rural disperso,Total,Sin Informacion ,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0
+Rural disperso,Total,Total,1664.0,67.0,43.0,252.0,570.0,68.0,271.0,264.0,44.0,1.0,1.0,12.0,5.0,42.0,17.0,7.0
