@@ -1,307 +1,307 @@
-Edad,Hombre,Mujer,Area
-0,53,42,cabecera
-1,48,53,cabecera
-2,65,52,cabecera
-3,59,45,cabecera
-4,61,45,cabecera
-5,50,55,cabecera
-6,51,68,cabecera
-7,71,66,cabecera
-8,62,67,cabecera
-9,73,57,cabecera
-10,78,65,cabecera
-11,70,76,cabecera
-12,75,71,cabecera
-13,79,98,cabecera
-14,71,96,cabecera
-15,91,92,cabecera
-16,85,88,cabecera
-17,96,90,cabecera
-18,74,92,cabecera
-19,83,95,cabecera
-20,71,89,cabecera
-21,78,91,cabecera
-22,69,88,cabecera
-23,84,94,cabecera
-24,89,82,cabecera
-25,72,95,cabecera
-26,75,72,cabecera
-27,79,69,cabecera
-28,74,75,cabecera
-29,65,72,cabecera
-30,78,68,cabecera
-31,58,68,cabecera
-32,54,83,cabecera
-33,63,72,cabecera
-34,64,66,cabecera
-35,64,78,cabecera
-36,73,81,cabecera
-37,69,70,cabecera
-38,76,87,cabecera
-39,51,74,cabecera
-40,58,72,cabecera
-41,65,80,cabecera
-42,50,64,cabecera
-43,53,70,cabecera
-44,57,65,cabecera
-45,62,68,cabecera
-46,66,78,cabecera
-47,70,97,cabecera
-48,73,81,cabecera
-49,50,91,cabecera
-50,59,78,cabecera
-51,80,66,cabecera
-52,59,90,cabecera
-53,61,83,cabecera
-54,66,88,cabecera
-55,73,81,cabecera
-56,60,76,cabecera
-57,56,89,cabecera
-58,48,85,cabecera
-59,50,68,cabecera
-60,64,58,cabecera
-61,46,70,cabecera
-62,55,56,cabecera
-63,53,47,cabecera
-64,51,49,cabecera
-65,56,56,cabecera
-66,50,56,cabecera
-67,44,58,cabecera
-68,32,65,cabecera
-69,41,38,cabecera
-70,24,44,cabecera
-71,35,43,cabecera
-72,29,44,cabecera
-73,34,47,cabecera
-74,36,38,cabecera
-75,32,43,cabecera
-76,20,46,cabecera
-77,28,35,cabecera
-78,27,41,cabecera
-79,23,27,cabecera
-80,14,23,cabecera
-81,17,26,cabecera
-82,17,23,cabecera
-83,17,17,cabecera
-84,20,22,cabecera
-85,12,16,cabecera
-86,11,11,cabecera
-87,13,11,cabecera
-88,10,7,cabecera
-89,7,5,cabecera
-90,10,7,cabecera
-91,3,6,cabecera
-92,5,4,cabecera
-93,1,3,cabecera
-94,1,5,cabecera
-95,1,1,cabecera
-96,0,2,cabecera
-97,2,1,cabecera
-98,1,0,cabecera
-101,1,1,cabecera
-102,0,1,cabecera
-103,0,1,cabecera
-0,0,0,centro poblado
-1,0,0,centro poblado
-2,0,0,centro poblado
-3,0,0,centro poblado
-4,0,0,centro poblado
-5,0,0,centro poblado
-6,0,0,centro poblado
-7,0,0,centro poblado
-8,0,0,centro poblado
-9,0,0,centro poblado
-10,0,0,centro poblado
-11,0,0,centro poblado
-12,0,0,centro poblado
-13,0,0,centro poblado
-14,0,0,centro poblado
-15,0,0,centro poblado
-16,0,0,centro poblado
-17,0,0,centro poblado
-18,0,0,centro poblado
-19,0,0,centro poblado
-20,0,0,centro poblado
-21,0,0,centro poblado
-22,0,0,centro poblado
-23,0,0,centro poblado
-24,0,0,centro poblado
-25,0,0,centro poblado
-26,0,0,centro poblado
-27,0,0,centro poblado
-28,0,0,centro poblado
-29,0,0,centro poblado
-30,0,0,centro poblado
-31,0,0,centro poblado
-32,0,0,centro poblado
-33,0,0,centro poblado
-34,0,0,centro poblado
-35,0,0,centro poblado
-36,0,0,centro poblado
-37,0,0,centro poblado
-38,0,0,centro poblado
-39,0,0,centro poblado
-40,0,0,centro poblado
-41,0,0,centro poblado
-42,0,0,centro poblado
-43,0,0,centro poblado
-44,0,0,centro poblado
-45,0,0,centro poblado
-46,0,0,centro poblado
-47,0,0,centro poblado
-48,0,0,centro poblado
-49,0,0,centro poblado
-50,0,0,centro poblado
-51,0,0,centro poblado
-52,0,0,centro poblado
-53,0,0,centro poblado
-54,0,0,centro poblado
-55,0,0,centro poblado
-56,0,0,centro poblado
-57,0,0,centro poblado
-58,0,0,centro poblado
-59,0,0,centro poblado
-60,0,0,centro poblado
-61,0,0,centro poblado
-62,0,0,centro poblado
-63,0,0,centro poblado
-64,0,0,centro poblado
-65,0,0,centro poblado
-66,0,0,centro poblado
-67,0,0,centro poblado
-68,0,0,centro poblado
-69,0,0,centro poblado
-70,0,0,centro poblado
-71,0,0,centro poblado
-72,0,0,centro poblado
-73,0,0,centro poblado
-74,0,0,centro poblado
-75,0,0,centro poblado
-76,0,0,centro poblado
-77,0,0,centro poblado
-78,0,0,centro poblado
-79,0,0,centro poblado
-80,0,0,centro poblado
-81,0,0,centro poblado
-82,0,0,centro poblado
-83,0,0,centro poblado
-84,0,0,centro poblado
-85,0,0,centro poblado
-86,0,0,centro poblado
-87,0,0,centro poblado
-88,0,0,centro poblado
-89,0,0,centro poblado
-90,0,0,centro poblado
-91,0,0,centro poblado
-92,0,0,centro poblado
-93,0,0,centro poblado
-94,0,0,centro poblado
-95,0,0,centro poblado
-96,0,0,centro poblado
-97,0,0,centro poblado
-98,0,0,centro poblado
-101,0,0,centro poblado
-102,0,0,centro poblado
-103,0,0,centro poblado
-0,10,14,rural disperso
-1,12,7,rural disperso
-2,7,9,rural disperso
-3,6,10,rural disperso
-4,9,13,rural disperso
-5,14,9,rural disperso
-6,13,6,rural disperso
-7,14,10,rural disperso
-8,7,13,rural disperso
-9,17,19,rural disperso
-10,20,16,rural disperso
-11,17,10,rural disperso
-12,10,11,rural disperso
-13,17,18,rural disperso
-14,24,19,rural disperso
-15,23,13,rural disperso
-16,16,16,rural disperso
-17,27,17,rural disperso
-18,21,23,rural disperso
-19,18,13,rural disperso
-20,14,14,rural disperso
-21,14,11,rural disperso
-22,13,9,rural disperso
-23,7,17,rural disperso
-24,9,15,rural disperso
-25,12,12,rural disperso
-26,11,9,rural disperso
-27,11,14,rural disperso
-28,9,6,rural disperso
-29,15,8,rural disperso
-30,15,12,rural disperso
-31,13,11,rural disperso
-32,2,13,rural disperso
-33,4,14,rural disperso
-34,9,12,rural disperso
-35,13,14,rural disperso
-36,10,6,rural disperso
-37,7,13,rural disperso
-38,14,13,rural disperso
-39,15,12,rural disperso
-40,10,16,rural disperso
-41,16,9,rural disperso
-42,13,13,rural disperso
-43,6,10,rural disperso
-44,10,10,rural disperso
-45,15,11,rural disperso
-46,13,7,rural disperso
-47,11,13,rural disperso
-48,13,10,rural disperso
-49,15,8,rural disperso
-50,14,5,rural disperso
-51,9,13,rural disperso
-52,13,8,rural disperso
-53,7,17,rural disperso
-54,15,15,rural disperso
-55,12,11,rural disperso
-56,12,3,rural disperso
-57,8,12,rural disperso
-58,11,7,rural disperso
-59,15,8,rural disperso
-60,10,13,rural disperso
-61,11,7,rural disperso
-62,8,12,rural disperso
-63,10,13,rural disperso
-64,14,3,rural disperso
-65,19,6,rural disperso
-66,11,3,rural disperso
-67,3,7,rural disperso
-68,7,8,rural disperso
-69,3,10,rural disperso
-70,14,8,rural disperso
-71,6,4,rural disperso
-72,6,5,rural disperso
-73,2,6,rural disperso
-74,7,2,rural disperso
-75,6,2,rural disperso
-76,1,3,rural disperso
-77,4,2,rural disperso
-78,2,3,rural disperso
-79,6,1,rural disperso
-80,4,1,rural disperso
-81,1,0,rural disperso
-82,1,0,rural disperso
-83,4,2,rural disperso
-84,3,0,rural disperso
-85,0,2,rural disperso
-86,2,1,rural disperso
-87,2,0,rural disperso
-88,1,0,rural disperso
-89,2,0,rural disperso
-90,1,1,rural disperso
-91,1,0,rural disperso
-92,0,0,rural disperso
-93,0,0,rural disperso
-94,0,0,rural disperso
-95,0,0,rural disperso
-96,0,0,rural disperso
-97,0,0,rural disperso
-98,0,0,rural disperso
-101,0,0,rural disperso
-102,0,0,rural disperso
-103,0,0,rural disperso
+Grupo de edad,Edad,Hombre,Mujer,Area
+0 a 4,0,53,42,cabecera
+0 a 4,1,48,53,cabecera
+0 a 4,2,65,52,cabecera
+0 a 4,3,59,45,cabecera
+0 a 4,4,61,45,cabecera
+5 a 9,5,50,55,cabecera
+5 a 9,6,51,68,cabecera
+5 a 9,7,71,66,cabecera
+5 a 9,8,62,67,cabecera
+5 a 9,9,73,57,cabecera
+10 a 14,10,78,65,cabecera
+10 a 14,11,70,76,cabecera
+10 a 14,12,75,71,cabecera
+10 a 14,13,79,98,cabecera
+10 a 14,14,71,96,cabecera
+15 a 19,15,91,92,cabecera
+15 a 19,16,85,88,cabecera
+15 a 19,17,96,90,cabecera
+15 a 19,18,74,92,cabecera
+15 a 19,19,83,95,cabecera
+20 a 24,20,71,89,cabecera
+20 a 24,21,78,91,cabecera
+20 a 24,22,69,88,cabecera
+20 a 24,23,84,94,cabecera
+20 a 24,24,89,82,cabecera
+25 a 29,25,72,95,cabecera
+25 a 29,26,75,72,cabecera
+25 a 29,27,79,69,cabecera
+25 a 29,28,74,75,cabecera
+25 a 29,29,65,72,cabecera
+30 a 34,30,78,68,cabecera
+30 a 34,31,58,68,cabecera
+30 a 34,32,54,83,cabecera
+30 a 34,33,63,72,cabecera
+30 a 34,34,64,66,cabecera
+35 a 39,35,64,78,cabecera
+35 a 39,36,73,81,cabecera
+35 a 39,37,69,70,cabecera
+35 a 39,38,76,87,cabecera
+35 a 39,39,51,74,cabecera
+40 a 44,40,58,72,cabecera
+40 a 44,41,65,80,cabecera
+40 a 44,42,50,64,cabecera
+40 a 44,43,53,70,cabecera
+40 a 44,44,57,65,cabecera
+45 a 49,45,62,68,cabecera
+45 a 49,46,66,78,cabecera
+45 a 49,47,70,97,cabecera
+45 a 49,48,73,81,cabecera
+45 a 49,49,50,91,cabecera
+50 a 54,50,59,78,cabecera
+50 a 54,51,80,66,cabecera
+50 a 54,52,59,90,cabecera
+50 a 54,53,61,83,cabecera
+50 a 54,54,66,88,cabecera
+55 a 59,55,73,81,cabecera
+55 a 59,56,60,76,cabecera
+55 a 59,57,56,89,cabecera
+55 a 59,58,48,85,cabecera
+55 a 59,59,50,68,cabecera
+60 a 64,60,64,58,cabecera
+60 a 64,61,46,70,cabecera
+60 a 64,62,55,56,cabecera
+60 a 64,63,53,47,cabecera
+60 a 64,64,51,49,cabecera
+65 a 69,65,56,56,cabecera
+65 a 69,66,50,56,cabecera
+65 a 69,67,44,58,cabecera
+65 a 69,68,32,65,cabecera
+65 a 69,69,41,38,cabecera
+70 a 74,70,24,44,cabecera
+70 a 74,71,35,43,cabecera
+70 a 74,72,29,44,cabecera
+70 a 74,73,34,47,cabecera
+70 a 74,74,36,38,cabecera
+75 a 79,75,32,43,cabecera
+75 a 79,76,20,46,cabecera
+75 a 79,77,28,35,cabecera
+75 a 79,78,27,41,cabecera
+75 a 79,79,23,27,cabecera
+80 a 84,80,14,23,cabecera
+80 a 84,81,17,26,cabecera
+80 a 84,82,17,23,cabecera
+80 a 84,83,17,17,cabecera
+80 a 84,84,20,22,cabecera
+85 a 89,85,12,16,cabecera
+85 a 89,86,11,11,cabecera
+85 a 89,87,13,11,cabecera
+85 a 89,88,10,7,cabecera
+85 a 89,89,7,5,cabecera
+90 a 94,90,10,7,cabecera
+90 a 94,91,3,6,cabecera
+90 a 94,92,5,4,cabecera
+90 a 94,93,1,3,cabecera
+90 a 94,94,1,5,cabecera
+95 a 99,95,1,1,cabecera
+95 a 99,96,0,2,cabecera
+95 a 99,97,2,1,cabecera
+95 a 99,98,1,0,cabecera
+100 a 104,101,1,1,cabecera
+100 a 104,102,0,1,cabecera
+100 a 104,103,0,1,cabecera
+0 a 4,0,0,0,centro_poblado
+0 a 4,1,0,0,centro_poblado
+0 a 4,2,0,0,centro_poblado
+0 a 4,3,0,0,centro_poblado
+0 a 4,4,0,0,centro_poblado
+5 a 9,5,0,0,centro_poblado
+5 a 9,6,0,0,centro_poblado
+5 a 9,7,0,0,centro_poblado
+5 a 9,8,0,0,centro_poblado
+5 a 9,9,0,0,centro_poblado
+10 a 14,10,0,0,centro_poblado
+10 a 14,11,0,0,centro_poblado
+10 a 14,12,0,0,centro_poblado
+10 a 14,13,0,0,centro_poblado
+10 a 14,14,0,0,centro_poblado
+15 a 19,15,0,0,centro_poblado
+15 a 19,16,0,0,centro_poblado
+15 a 19,17,0,0,centro_poblado
+15 a 19,18,0,0,centro_poblado
+15 a 19,19,0,0,centro_poblado
+20 a 24,20,0,0,centro_poblado
+20 a 24,21,0,0,centro_poblado
+20 a 24,22,0,0,centro_poblado
+20 a 24,23,0,0,centro_poblado
+20 a 24,24,0,0,centro_poblado
+25 a 29,25,0,0,centro_poblado
+25 a 29,26,0,0,centro_poblado
+25 a 29,27,0,0,centro_poblado
+25 a 29,28,0,0,centro_poblado
+25 a 29,29,0,0,centro_poblado
+30 a 34,30,0,0,centro_poblado
+30 a 34,31,0,0,centro_poblado
+30 a 34,32,0,0,centro_poblado
+30 a 34,33,0,0,centro_poblado
+30 a 34,34,0,0,centro_poblado
+35 a 39,35,0,0,centro_poblado
+35 a 39,36,0,0,centro_poblado
+35 a 39,37,0,0,centro_poblado
+35 a 39,38,0,0,centro_poblado
+35 a 39,39,0,0,centro_poblado
+40 a 44,40,0,0,centro_poblado
+40 a 44,41,0,0,centro_poblado
+40 a 44,42,0,0,centro_poblado
+40 a 44,43,0,0,centro_poblado
+40 a 44,44,0,0,centro_poblado
+45 a 49,45,0,0,centro_poblado
+45 a 49,46,0,0,centro_poblado
+45 a 49,47,0,0,centro_poblado
+45 a 49,48,0,0,centro_poblado
+45 a 49,49,0,0,centro_poblado
+50 a 54,50,0,0,centro_poblado
+50 a 54,51,0,0,centro_poblado
+50 a 54,52,0,0,centro_poblado
+50 a 54,53,0,0,centro_poblado
+50 a 54,54,0,0,centro_poblado
+55 a 59,55,0,0,centro_poblado
+55 a 59,56,0,0,centro_poblado
+55 a 59,57,0,0,centro_poblado
+55 a 59,58,0,0,centro_poblado
+55 a 59,59,0,0,centro_poblado
+60 a 64,60,0,0,centro_poblado
+60 a 64,61,0,0,centro_poblado
+60 a 64,62,0,0,centro_poblado
+60 a 64,63,0,0,centro_poblado
+60 a 64,64,0,0,centro_poblado
+65 a 69,65,0,0,centro_poblado
+65 a 69,66,0,0,centro_poblado
+65 a 69,67,0,0,centro_poblado
+65 a 69,68,0,0,centro_poblado
+65 a 69,69,0,0,centro_poblado
+70 a 74,70,0,0,centro_poblado
+70 a 74,71,0,0,centro_poblado
+70 a 74,72,0,0,centro_poblado
+70 a 74,73,0,0,centro_poblado
+70 a 74,74,0,0,centro_poblado
+75 a 79,75,0,0,centro_poblado
+75 a 79,76,0,0,centro_poblado
+75 a 79,77,0,0,centro_poblado
+75 a 79,78,0,0,centro_poblado
+75 a 79,79,0,0,centro_poblado
+80 a 84,80,0,0,centro_poblado
+80 a 84,81,0,0,centro_poblado
+80 a 84,82,0,0,centro_poblado
+80 a 84,83,0,0,centro_poblado
+80 a 84,84,0,0,centro_poblado
+85 a 89,85,0,0,centro_poblado
+85 a 89,86,0,0,centro_poblado
+85 a 89,87,0,0,centro_poblado
+85 a 89,88,0,0,centro_poblado
+85 a 89,89,0,0,centro_poblado
+90 a 94,90,0,0,centro_poblado
+90 a 94,91,0,0,centro_poblado
+90 a 94,92,0,0,centro_poblado
+90 a 94,93,0,0,centro_poblado
+90 a 94,94,0,0,centro_poblado
+95 a 99,95,0,0,centro_poblado
+95 a 99,96,0,0,centro_poblado
+95 a 99,97,0,0,centro_poblado
+95 a 99,98,0,0,centro_poblado
+100 a 104,101,0,0,centro_poblado
+100 a 104,102,0,0,centro_poblado
+100 a 104,103,0,0,centro_poblado
+0 a 4,0,10,14,rural_disperso
+0 a 4,1,12,7,rural_disperso
+0 a 4,2,7,9,rural_disperso
+0 a 4,3,6,10,rural_disperso
+0 a 4,4,9,13,rural_disperso
+5 a 9,5,14,9,rural_disperso
+5 a 9,6,13,6,rural_disperso
+5 a 9,7,14,10,rural_disperso
+5 a 9,8,7,13,rural_disperso
+5 a 9,9,17,19,rural_disperso
+10 a 14,10,20,16,rural_disperso
+10 a 14,11,17,10,rural_disperso
+10 a 14,12,10,11,rural_disperso
+10 a 14,13,17,18,rural_disperso
+10 a 14,14,24,19,rural_disperso
+15 a 19,15,23,13,rural_disperso
+15 a 19,16,16,16,rural_disperso
+15 a 19,17,27,17,rural_disperso
+15 a 19,18,21,23,rural_disperso
+15 a 19,19,18,13,rural_disperso
+20 a 24,20,14,14,rural_disperso
+20 a 24,21,14,11,rural_disperso
+20 a 24,22,13,9,rural_disperso
+20 a 24,23,7,17,rural_disperso
+20 a 24,24,9,15,rural_disperso
+25 a 29,25,12,12,rural_disperso
+25 a 29,26,11,9,rural_disperso
+25 a 29,27,11,14,rural_disperso
+25 a 29,28,9,6,rural_disperso
+25 a 29,29,15,8,rural_disperso
+30 a 34,30,15,12,rural_disperso
+30 a 34,31,13,11,rural_disperso
+30 a 34,32,2,13,rural_disperso
+30 a 34,33,4,14,rural_disperso
+30 a 34,34,9,12,rural_disperso
+35 a 39,35,13,14,rural_disperso
+35 a 39,36,10,6,rural_disperso
+35 a 39,37,7,13,rural_disperso
+35 a 39,38,14,13,rural_disperso
+35 a 39,39,15,12,rural_disperso
+40 a 44,40,10,16,rural_disperso
+40 a 44,41,16,9,rural_disperso
+40 a 44,42,13,13,rural_disperso
+40 a 44,43,6,10,rural_disperso
+40 a 44,44,10,10,rural_disperso
+45 a 49,45,15,11,rural_disperso
+45 a 49,46,13,7,rural_disperso
+45 a 49,47,11,13,rural_disperso
+45 a 49,48,13,10,rural_disperso
+45 a 49,49,15,8,rural_disperso
+50 a 54,50,14,5,rural_disperso
+50 a 54,51,9,13,rural_disperso
+50 a 54,52,13,8,rural_disperso
+50 a 54,53,7,17,rural_disperso
+50 a 54,54,15,15,rural_disperso
+55 a 59,55,12,11,rural_disperso
+55 a 59,56,12,3,rural_disperso
+55 a 59,57,8,12,rural_disperso
+55 a 59,58,11,7,rural_disperso
+55 a 59,59,15,8,rural_disperso
+60 a 64,60,10,13,rural_disperso
+60 a 64,61,11,7,rural_disperso
+60 a 64,62,8,12,rural_disperso
+60 a 64,63,10,13,rural_disperso
+60 a 64,64,14,3,rural_disperso
+65 a 69,65,19,6,rural_disperso
+65 a 69,66,11,3,rural_disperso
+65 a 69,67,3,7,rural_disperso
+65 a 69,68,7,8,rural_disperso
+65 a 69,69,3,10,rural_disperso
+70 a 74,70,14,8,rural_disperso
+70 a 74,71,6,4,rural_disperso
+70 a 74,72,6,5,rural_disperso
+70 a 74,73,2,6,rural_disperso
+70 a 74,74,7,2,rural_disperso
+75 a 79,75,6,2,rural_disperso
+75 a 79,76,1,3,rural_disperso
+75 a 79,77,4,2,rural_disperso
+75 a 79,78,2,3,rural_disperso
+75 a 79,79,6,1,rural_disperso
+80 a 84,80,4,1,rural_disperso
+80 a 84,81,1,0,rural_disperso
+80 a 84,82,1,0,rural_disperso
+80 a 84,83,4,2,rural_disperso
+80 a 84,84,3,0,rural_disperso
+85 a 89,85,0,2,rural_disperso
+85 a 89,86,2,1,rural_disperso
+85 a 89,87,2,0,rural_disperso
+85 a 89,88,1,0,rural_disperso
+85 a 89,89,2,0,rural_disperso
+90 a 94,90,1,1,rural_disperso
+90 a 94,91,1,0,rural_disperso
+90 a 94,92,0,0,rural_disperso
+90 a 94,93,0,0,rural_disperso
+90 a 94,94,0,0,rural_disperso
+95 a 99,95,0,0,rural_disperso
+95 a 99,96,0,0,rural_disperso
+95 a 99,97,0,0,rural_disperso
+95 a 99,98,0,0,rural_disperso
+100 a 104,101,0,0,rural_disperso
+100 a 104,102,0,0,rural_disperso
+100 a 104,103,0,0,rural_disperso

@@ -1,0 +1,493 @@
+Grupo de edad,Edad,Total,Hombre,Mujer,Area
+0 a 4,0,119.0,63,56,total
+0 a 4,1,120.0,60,60,total
+0 a 4,2,133.0,72,61,total
+0 a 4,3,120.0,65,55,total
+0 a 4,4,128.0,70,58,total
+0 a 4,Total grupo edad,620.0,330,290,total
+5 a 9,5,128.0,64,64,total
+5 a 9,6,138.0,64,74,total
+5 a 9,7,161.0,85,76,total
+5 a 9,8,149.0,69,80,total
+5 a 9,9,166.0,90,76,total
+5 a 9,Total grupo edad,742.0,372,370,total
+10 a 14,10,179.0,98,81,total
+10 a 14,11,173.0,87,86,total
+10 a 14,12,167.0,85,82,total
+10 a 14,13,212.0,96,116,total
+10 a 14,14,210.0,95,115,total
+10 a 14,Total grupo edad,941.0,461,480,total
+15 a 19,15,219.0,114,105,total
+15 a 19,16,205.0,101,104,total
+15 a 19,17,230.0,123,107,total
+15 a 19,18,210.0,95,115,total
+15 a 19,19,209.0,101,108,total
+15 a 19,Total grupo edad,1073.0,534,539,total
+20 a 24,20,188.0,85,103,total
+20 a 24,21,194.0,92,102,total
+20 a 24,22,179.0,82,97,total
+20 a 24,23,202.0,91,111,total
+20 a 24,24,195.0,98,97,total
+20 a 24,Total grupo edad,958.0,448,510,total
+25 a 29,25,191.0,84,107,total
+25 a 29,26,167.0,86,81,total
+25 a 29,27,173.0,90,83,total
+25 a 29,28,164.0,83,81,total
+25 a 29,29,160.0,80,80,total
+25 a 29,Total grupo edad,855.0,423,432,total
+30 a 34,30,173.0,93,80,total
+30 a 34,31,150.0,71,79,total
+30 a 34,32,152.0,56,96,total
+30 a 34,33,153.0,67,86,total
+30 a 34,34,151.0,73,78,total
+30 a 34,Total grupo edad,779.0,360,419,total
+35 a 39,35,169.0,77,92,total
+35 a 39,36,170.0,83,87,total
+35 a 39,37,159.0,76,83,total
+35 a 39,38,190.0,90,100,total
+35 a 39,39,152.0,66,86,total
+35 a 39,Total grupo edad,840.0,392,448,total
+40 a 44,40,156.0,68,88,total
+40 a 44,41,170.0,81,89,total
+40 a 44,42,140.0,63,77,total
+40 a 44,43,139.0,59,80,total
+40 a 44,44,142.0,67,75,total
+40 a 44,Total grupo edad,747.0,338,409,total
+45 a 49,45,156.0,77,79,total
+45 a 49,46,164.0,79,85,total
+45 a 49,47,191.0,81,110,total
+45 a 49,48,177.0,86,91,total
+45 a 49,49,164.0,65,99,total
+45 a 49,Total grupo edad,852.0,388,464,total
+50 a 54,50,156.0,73,83,total
+50 a 54,51,168.0,89,79,total
+50 a 54,52,170.0,72,98,total
+50 a 54,53,168.0,68,100,total
+50 a 54,54,184.0,81,103,total
+50 a 54,Total grupo edad,846.0,383,463,total
+55 a 59,55,177.0,85,92,total
+55 a 59,56,151.0,72,79,total
+55 a 59,57,165.0,64,101,total
+55 a 59,58,151.0,59,92,total
+55 a 59,59,141.0,65,76,total
+55 a 59,Total grupo edad,785.0,345,440,total
+60 a 64,60,145.0,74,71,total
+60 a 64,61,134.0,57,77,total
+60 a 64,62,131.0,63,68,total
+60 a 64,63,123.0,63,60,total
+60 a 64,64,117.0,65,52,total
+60 a 64,Total grupo edad,650.0,322,328,total
+65 a 69,65,137.0,75,62,total
+65 a 69,66,120.0,61,59,total
+65 a 69,67,112.0,47,65,total
+65 a 69,68,112.0,39,73,total
+65 a 69,69,92.0,44,48,total
+65 a 69,Total grupo edad,573.0,266,307,total
+70 a 74,70,90.0,38,52,total
+70 a 74,71,88.0,41,47,total
+70 a 74,72,84.0,35,49,total
+70 a 74,73,89.0,36,53,total
+70 a 74,74,83.0,43,40,total
+70 a 74,Total grupo edad,434.0,193,241,total
+75 a 79,75,83.0,38,45,total
+75 a 79,76,70.0,21,49,total
+75 a 79,77,69.0,32,37,total
+75 a 79,78,73.0,29,44,total
+75 a 79,79,57.0,29,28,total
+75 a 79,Total grupo edad,352.0,149,203,total
+80 a 84,80,42.0,18,24,total
+80 a 84,81,44.0,18,26,total
+80 a 84,82,41.0,18,23,total
+80 a 84,83,40.0,21,19,total
+80 a 84,84,45.0,23,22,total
+80 a 84,Total grupo edad,212.0,98,114,total
+85 a 89,85,30.0,12,18,total
+85 a 89,86,25.0,13,12,total
+85 a 89,87,26.0,15,11,total
+85 a 89,88,18.0,11,7,total
+85 a 89,89,14.0,9,5,total
+85 a 89,Total grupo edad,113.0,60,53,total
+90 a 94,90,19.0,11,8,total
+90 a 94,91,10.0,4,6,total
+90 a 94,92,9.0,5,4,total
+90 a 94,93,4.0,1,3,total
+90 a 94,94,6.0,1,5,total
+90 a 94,Total grupo edad,48.0,22,26,total
+95 a 99,95,2.0,1,1,total
+95 a 99,96,2.0,0,2,total
+95 a 99,97,3.0,2,1,total
+95 a 99,98,1.0,1,0,total
+95 a 99,Total grupo edad,8.0,4,4,total
+100 a 104,101,2.0,1,1,total
+100 a 104,102,1.0,0,1,total
+100 a 104,103,1.0,0,1,total
+100 a 104,Total grupo edad,4.0,1,3,total
+0 a 4,0,95,53,42,cabecera
+0 a 4,1,101,48,53,cabecera
+0 a 4,2,117,65,52,cabecera
+0 a 4,3,104,59,45,cabecera
+0 a 4,4,106,61,45,cabecera
+0 a 4,Total grupo edad,523,286,237,cabecera
+5 a 9,5,105,50,55,cabecera
+5 a 9,6,119,51,68,cabecera
+5 a 9,7,137,71,66,cabecera
+5 a 9,8,129,62,67,cabecera
+5 a 9,9,130,73,57,cabecera
+5 a 9,Total grupo edad,620,307,313,cabecera
+10 a 14,10,143,78,65,cabecera
+10 a 14,11,146,70,76,cabecera
+10 a 14,12,146,75,71,cabecera
+10 a 14,13,177,79,98,cabecera
+10 a 14,14,167,71,96,cabecera
+10 a 14,Total grupo edad,779,373,406,cabecera
+15 a 19,15,183,91,92,cabecera
+15 a 19,16,173,85,88,cabecera
+15 a 19,17,186,96,90,cabecera
+15 a 19,18,166,74,92,cabecera
+15 a 19,19,178,83,95,cabecera
+15 a 19,Total grupo edad,886,429,457,cabecera
+20 a 24,20,160,71,89,cabecera
+20 a 24,21,169,78,91,cabecera
+20 a 24,22,157,69,88,cabecera
+20 a 24,23,178,84,94,cabecera
+20 a 24,24,171,89,82,cabecera
+20 a 24,Total grupo edad,835,391,444,cabecera
+25 a 29,25,167,72,95,cabecera
+25 a 29,26,147,75,72,cabecera
+25 a 29,27,148,79,69,cabecera
+25 a 29,28,149,74,75,cabecera
+25 a 29,29,137,65,72,cabecera
+25 a 29,Total grupo edad,748,365,383,cabecera
+30 a 34,30,146,78,68,cabecera
+30 a 34,31,126,58,68,cabecera
+30 a 34,32,137,54,83,cabecera
+30 a 34,33,135,63,72,cabecera
+30 a 34,34,130,64,66,cabecera
+30 a 34,Total grupo edad,674,317,357,cabecera
+35 a 39,35,142,64,78,cabecera
+35 a 39,36,154,73,81,cabecera
+35 a 39,37,139,69,70,cabecera
+35 a 39,38,163,76,87,cabecera
+35 a 39,39,125,51,74,cabecera
+35 a 39,Total grupo edad,723,333,390,cabecera
+40 a 44,40,130,58,72,cabecera
+40 a 44,41,145,65,80,cabecera
+40 a 44,42,114,50,64,cabecera
+40 a 44,43,123,53,70,cabecera
+40 a 44,44,122,57,65,cabecera
+40 a 44,Total grupo edad,634,283,351,cabecera
+45 a 49,45,130,62,68,cabecera
+45 a 49,46,144,66,78,cabecera
+45 a 49,47,167,70,97,cabecera
+45 a 49,48,154,73,81,cabecera
+45 a 49,49,141,50,91,cabecera
+45 a 49,Total grupo edad,736,321,415,cabecera
+50 a 54,50,137,59,78,cabecera
+50 a 54,51,146,80,66,cabecera
+50 a 54,52,149,59,90,cabecera
+50 a 54,53,144,61,83,cabecera
+50 a 54,54,154,66,88,cabecera
+50 a 54,Total grupo edad,730,325,405,cabecera
+55 a 59,55,154,73,81,cabecera
+55 a 59,56,136,60,76,cabecera
+55 a 59,57,145,56,89,cabecera
+55 a 59,58,133,48,85,cabecera
+55 a 59,59,118,50,68,cabecera
+55 a 59,Total grupo edad,686,287,399,cabecera
+60 a 64,60,122,64,58,cabecera
+60 a 64,61,116,46,70,cabecera
+60 a 64,62,111,55,56,cabecera
+60 a 64,63,100,53,47,cabecera
+60 a 64,64,100,51,49,cabecera
+60 a 64,Total grupo edad,549,269,280,cabecera
+65 a 69,65,112,56,56,cabecera
+65 a 69,66,106,50,56,cabecera
+65 a 69,67,102,44,58,cabecera
+65 a 69,68,97,32,65,cabecera
+65 a 69,69,79,41,38,cabecera
+65 a 69,Total grupo edad,496,223,273,cabecera
+70 a 74,70,68,24,44,cabecera
+70 a 74,71,78,35,43,cabecera
+70 a 74,72,73,29,44,cabecera
+70 a 74,73,81,34,47,cabecera
+70 a 74,74,74,36,38,cabecera
+70 a 74,Total grupo edad,374,158,216,cabecera
+75 a 79,75,75,32,43,cabecera
+75 a 79,76,66,20,46,cabecera
+75 a 79,77,63,28,35,cabecera
+75 a 79,78,68,27,41,cabecera
+75 a 79,79,50,23,27,cabecera
+75 a 79,Total grupo edad,322,130,192,cabecera
+80 a 84,80,37,14,23,cabecera
+80 a 84,81,43,17,26,cabecera
+80 a 84,82,40,17,23,cabecera
+80 a 84,83,34,17,17,cabecera
+80 a 84,84,42,20,22,cabecera
+80 a 84,Total grupo edad,196,85,111,cabecera
+85 a 89,85,28,12,16,cabecera
+85 a 89,86,22,11,11,cabecera
+85 a 89,87,24,13,11,cabecera
+85 a 89,88,17,10,7,cabecera
+85 a 89,89,12,7,5,cabecera
+85 a 89,Total grupo edad,103,53,50,cabecera
+90 a 94,90,17,10,7,cabecera
+90 a 94,91,9,3,6,cabecera
+90 a 94,92,9,5,4,cabecera
+90 a 94,93,4,1,3,cabecera
+90 a 94,94,6,1,5,cabecera
+90 a 94,Total grupo edad,45,20,25,cabecera
+95 a 99,95,2,1,1,cabecera
+95 a 99,96,2,0,2,cabecera
+95 a 99,97,3,2,1,cabecera
+95 a 99,98,1,1,0,cabecera
+95 a 99,Total grupo edad,8,4,4,cabecera
+100 a 104,101,2,1,1,cabecera
+100 a 104,102,1,0,1,cabecera
+100 a 104,103,1,0,1,cabecera
+100 a 104,Total grupo edad,4,1,3,cabecera
+0 a 4,0,0,0,0,centro_poblado
+0 a 4,1,0,0,0,centro_poblado
+0 a 4,2,0,0,0,centro_poblado
+0 a 4,3,0,0,0,centro_poblado
+0 a 4,4,0,0,0,centro_poblado
+0 a 4,Total grupo edad,0,0,0,centro_poblado
+5 a 9,5,0,0,0,centro_poblado
+5 a 9,6,0,0,0,centro_poblado
+5 a 9,7,0,0,0,centro_poblado
+5 a 9,8,0,0,0,centro_poblado
+5 a 9,9,0,0,0,centro_poblado
+5 a 9,Total grupo edad,0,0,0,centro_poblado
+10 a 14,10,0,0,0,centro_poblado
+10 a 14,11,0,0,0,centro_poblado
+10 a 14,12,0,0,0,centro_poblado
+10 a 14,13,0,0,0,centro_poblado
+10 a 14,14,0,0,0,centro_poblado
+10 a 14,Total grupo edad,0,0,0,centro_poblado
+15 a 19,15,0,0,0,centro_poblado
+15 a 19,16,0,0,0,centro_poblado
+15 a 19,17,0,0,0,centro_poblado
+15 a 19,18,0,0,0,centro_poblado
+15 a 19,19,0,0,0,centro_poblado
+15 a 19,Total grupo edad,0,0,0,centro_poblado
+20 a 24,20,0,0,0,centro_poblado
+20 a 24,21,0,0,0,centro_poblado
+20 a 24,22,0,0,0,centro_poblado
+20 a 24,23,0,0,0,centro_poblado
+20 a 24,24,0,0,0,centro_poblado
+20 a 24,Total grupo edad,0,0,0,centro_poblado
+25 a 29,25,0,0,0,centro_poblado
+25 a 29,26,0,0,0,centro_poblado
+25 a 29,27,0,0,0,centro_poblado
+25 a 29,28,0,0,0,centro_poblado
+25 a 29,29,0,0,0,centro_poblado
+25 a 29,Total grupo edad,0,0,0,centro_poblado
+30 a 34,30,0,0,0,centro_poblado
+30 a 34,31,0,0,0,centro_poblado
+30 a 34,32,0,0,0,centro_poblado
+30 a 34,33,0,0,0,centro_poblado
+30 a 34,34,0,0,0,centro_poblado
+30 a 34,Total grupo edad,0,0,0,centro_poblado
+35 a 39,35,0,0,0,centro_poblado
+35 a 39,36,0,0,0,centro_poblado
+35 a 39,37,0,0,0,centro_poblado
+35 a 39,38,0,0,0,centro_poblado
+35 a 39,39,0,0,0,centro_poblado
+35 a 39,Total grupo edad,0,0,0,centro_poblado
+40 a 44,40,0,0,0,centro_poblado
+40 a 44,41,0,0,0,centro_poblado
+40 a 44,42,0,0,0,centro_poblado
+40 a 44,43,0,0,0,centro_poblado
+40 a 44,44,0,0,0,centro_poblado
+40 a 44,Total grupo edad,0,0,0,centro_poblado
+45 a 49,45,0,0,0,centro_poblado
+45 a 49,46,0,0,0,centro_poblado
+45 a 49,47,0,0,0,centro_poblado
+45 a 49,48,0,0,0,centro_poblado
+45 a 49,49,0,0,0,centro_poblado
+45 a 49,Total grupo edad,0,0,0,centro_poblado
+50 a 54,50,0,0,0,centro_poblado
+50 a 54,51,0,0,0,centro_poblado
+50 a 54,52,0,0,0,centro_poblado
+50 a 54,53,0,0,0,centro_poblado
+50 a 54,54,0,0,0,centro_poblado
+50 a 54,Total grupo edad,0,0,0,centro_poblado
+55 a 59,55,0,0,0,centro_poblado
+55 a 59,56,0,0,0,centro_poblado
+55 a 59,57,0,0,0,centro_poblado
+55 a 59,58,0,0,0,centro_poblado
+55 a 59,59,0,0,0,centro_poblado
+55 a 59,Total grupo edad,0,0,0,centro_poblado
+60 a 64,60,0,0,0,centro_poblado
+60 a 64,61,0,0,0,centro_poblado
+60 a 64,62,0,0,0,centro_poblado
+60 a 64,63,0,0,0,centro_poblado
+60 a 64,64,0,0,0,centro_poblado
+60 a 64,Total grupo edad,0,0,0,centro_poblado
+65 a 69,65,0,0,0,centro_poblado
+65 a 69,66,0,0,0,centro_poblado
+65 a 69,67,0,0,0,centro_poblado
+65 a 69,68,0,0,0,centro_poblado
+65 a 69,69,0,0,0,centro_poblado
+65 a 69,Total grupo edad,0,0,0,centro_poblado
+70 a 74,70,0,0,0,centro_poblado
+70 a 74,71,0,0,0,centro_poblado
+70 a 74,72,0,0,0,centro_poblado
+70 a 74,73,0,0,0,centro_poblado
+70 a 74,74,0,0,0,centro_poblado
+70 a 74,Total grupo edad,0,0,0,centro_poblado
+75 a 79,75,0,0,0,centro_poblado
+75 a 79,76,0,0,0,centro_poblado
+75 a 79,77,0,0,0,centro_poblado
+75 a 79,78,0,0,0,centro_poblado
+75 a 79,79,0,0,0,centro_poblado
+75 a 79,Total grupo edad,0,0,0,centro_poblado
+80 a 84,80,0,0,0,centro_poblado
+80 a 84,81,0,0,0,centro_poblado
+80 a 84,82,0,0,0,centro_poblado
+80 a 84,83,0,0,0,centro_poblado
+80 a 84,84,0,0,0,centro_poblado
+80 a 84,Total grupo edad,0,0,0,centro_poblado
+85 a 89,85,0,0,0,centro_poblado
+85 a 89,86,0,0,0,centro_poblado
+85 a 89,87,0,0,0,centro_poblado
+85 a 89,88,0,0,0,centro_poblado
+85 a 89,89,0,0,0,centro_poblado
+85 a 89,Total grupo edad,0,0,0,centro_poblado
+90 a 94,90,0,0,0,centro_poblado
+90 a 94,91,0,0,0,centro_poblado
+90 a 94,92,0,0,0,centro_poblado
+90 a 94,93,0,0,0,centro_poblado
+90 a 94,94,0,0,0,centro_poblado
+90 a 94,Total grupo edad,0,0,0,centro_poblado
+95 a 99,95,0,0,0,centro_poblado
+95 a 99,96,0,0,0,centro_poblado
+95 a 99,97,0,0,0,centro_poblado
+95 a 99,98,0,0,0,centro_poblado
+95 a 99,Total grupo edad,0,0,0,centro_poblado
+100 a 104,101,0,0,0,centro_poblado
+100 a 104,102,0,0,0,centro_poblado
+100 a 104,103,0,0,0,centro_poblado
+100 a 104,Total grupo edad,0,0,0,centro_poblado
+0 a 4,0,24,10,14,rural_disperso
+0 a 4,1,19,12,7,rural_disperso
+0 a 4,2,16,7,9,rural_disperso
+0 a 4,3,16,6,10,rural_disperso
+0 a 4,4,22,9,13,rural_disperso
+0 a 4,Total grupo edad,97,44,53,rural_disperso
+5 a 9,5,23,14,9,rural_disperso
+5 a 9,6,19,13,6,rural_disperso
+5 a 9,7,24,14,10,rural_disperso
+5 a 9,8,20,7,13,rural_disperso
+5 a 9,9,36,17,19,rural_disperso
+5 a 9,Total grupo edad,122,65,57,rural_disperso
+10 a 14,10,36,20,16,rural_disperso
+10 a 14,11,27,17,10,rural_disperso
+10 a 14,12,21,10,11,rural_disperso
+10 a 14,13,35,17,18,rural_disperso
+10 a 14,14,43,24,19,rural_disperso
+10 a 14,Total grupo edad,162,88,74,rural_disperso
+15 a 19,15,36,23,13,rural_disperso
+15 a 19,16,32,16,16,rural_disperso
+15 a 19,17,44,27,17,rural_disperso
+15 a 19,18,44,21,23,rural_disperso
+15 a 19,19,31,18,13,rural_disperso
+15 a 19,Total grupo edad,187,105,82,rural_disperso
+20 a 24,20,28,14,14,rural_disperso
+20 a 24,21,25,14,11,rural_disperso
+20 a 24,22,22,13,9,rural_disperso
+20 a 24,23,24,7,17,rural_disperso
+20 a 24,24,24,9,15,rural_disperso
+20 a 24,Total grupo edad,123,57,66,rural_disperso
+25 a 29,25,24,12,12,rural_disperso
+25 a 29,26,20,11,9,rural_disperso
+25 a 29,27,25,11,14,rural_disperso
+25 a 29,28,15,9,6,rural_disperso
+25 a 29,29,23,15,8,rural_disperso
+25 a 29,Total grupo edad,107,58,49,rural_disperso
+30 a 34,30,27,15,12,rural_disperso
+30 a 34,31,24,13,11,rural_disperso
+30 a 34,32,15,2,13,rural_disperso
+30 a 34,33,18,4,14,rural_disperso
+30 a 34,34,21,9,12,rural_disperso
+30 a 34,Total grupo edad,105,43,62,rural_disperso
+35 a 39,35,27,13,14,rural_disperso
+35 a 39,36,16,10,6,rural_disperso
+35 a 39,37,20,7,13,rural_disperso
+35 a 39,38,27,14,13,rural_disperso
+35 a 39,39,27,15,12,rural_disperso
+35 a 39,Total grupo edad,117,59,58,rural_disperso
+40 a 44,40,26,10,16,rural_disperso
+40 a 44,41,25,16,9,rural_disperso
+40 a 44,42,26,13,13,rural_disperso
+40 a 44,43,16,6,10,rural_disperso
+40 a 44,44,20,10,10,rural_disperso
+40 a 44,Total grupo edad,113,55,58,rural_disperso
+45 a 49,45,26,15,11,rural_disperso
+45 a 49,46,20,13,7,rural_disperso
+45 a 49,47,24,11,13,rural_disperso
+45 a 49,48,23,13,10,rural_disperso
+45 a 49,49,23,15,8,rural_disperso
+45 a 49,Total grupo edad,116,67,49,rural_disperso
+50 a 54,50,19,14,5,rural_disperso
+50 a 54,51,22,9,13,rural_disperso
+50 a 54,52,21,13,8,rural_disperso
+50 a 54,53,24,7,17,rural_disperso
+50 a 54,54,30,15,15,rural_disperso
+50 a 54,Total grupo edad,116,58,58,rural_disperso
+55 a 59,55,23,12,11,rural_disperso
+55 a 59,56,15,12,3,rural_disperso
+55 a 59,57,20,8,12,rural_disperso
+55 a 59,58,18,11,7,rural_disperso
+55 a 59,59,23,15,8,rural_disperso
+55 a 59,Total grupo edad,99,58,41,rural_disperso
+60 a 64,60,23,10,13,rural_disperso
+60 a 64,61,18,11,7,rural_disperso
+60 a 64,62,20,8,12,rural_disperso
+60 a 64,63,23,10,13,rural_disperso
+60 a 64,64,17,14,3,rural_disperso
+60 a 64,Total grupo edad,101,53,48,rural_disperso
+65 a 69,65,25,19,6,rural_disperso
+65 a 69,66,14,11,3,rural_disperso
+65 a 69,67,10,3,7,rural_disperso
+65 a 69,68,15,7,8,rural_disperso
+65 a 69,69,13,3,10,rural_disperso
+65 a 69,Total grupo edad,77,43,34,rural_disperso
+70 a 74,70,22,14,8,rural_disperso
+70 a 74,71,10,6,4,rural_disperso
+70 a 74,72,11,6,5,rural_disperso
+70 a 74,73,8,2,6,rural_disperso
+70 a 74,74,9,7,2,rural_disperso
+70 a 74,Total grupo edad,60,35,25,rural_disperso
+75 a 79,75,8,6,2,rural_disperso
+75 a 79,76,4,1,3,rural_disperso
+75 a 79,77,6,4,2,rural_disperso
+75 a 79,78,5,2,3,rural_disperso
+75 a 79,79,7,6,1,rural_disperso
+75 a 79,Total grupo edad,30,19,11,rural_disperso
+80 a 84,80,5,4,1,rural_disperso
+80 a 84,81,1,1,0,rural_disperso
+80 a 84,82,1,1,0,rural_disperso
+80 a 84,83,6,4,2,rural_disperso
+80 a 84,84,3,3,0,rural_disperso
+80 a 84,Total grupo edad,16,13,3,rural_disperso
+85 a 89,85,2,0,2,rural_disperso
+85 a 89,86,3,2,1,rural_disperso
+85 a 89,87,2,2,0,rural_disperso
+85 a 89,88,1,1,0,rural_disperso
+85 a 89,89,2,2,0,rural_disperso
+85 a 89,Total grupo edad,10,7,3,rural_disperso
+90 a 94,90,2,1,1,rural_disperso
+90 a 94,91,1,1,0,rural_disperso
+90 a 94,92,0,0,0,rural_disperso
+90 a 94,93,0,0,0,rural_disperso
+90 a 94,94,0,0,0,rural_disperso
+90 a 94,Total grupo edad,3,2,1,rural_disperso
+95 a 99,95,0,0,0,rural_disperso
+95 a 99,96,0,0,0,rural_disperso
+95 a 99,97,0,0,0,rural_disperso
+95 a 99,98,0,0,0,rural_disperso
+95 a 99,Total grupo edad,0,0,0,rural_disperso
+100 a 104,101,0,0,0,rural_disperso
+100 a 104,102,0,0,0,rural_disperso
+100 a 104,103,0,0,0,rural_disperso
+100 a 104,Total grupo edad,0,0,0,rural_disperso
