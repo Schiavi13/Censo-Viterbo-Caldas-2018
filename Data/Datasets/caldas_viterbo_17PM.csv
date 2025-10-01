@@ -1,10 +1,5 @@
-Area,Sexo,Total,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,"Especializacion, Maestria, Doctorado",Sin informacion
-Total,Hombre,5559.0,304.0,123.0,831.0,1321.0,194.0,857.0,1238.0,139.0,0.0,9.0,122.0,57.0,256.0,57.0,51.0
-Total,Mujer,6253.0,272.0,130.0,873.0,1293.0,258.0,920.0,1606.0,160.0,6.0,4.0,238.0,60.0,328.0,64.0,41.0
-Total,Total,11812.0,576.0,253.0,1704.0,2614.0,452.0,1777.0,2844.0,299.0,6.0,13.0,360.0,117.0,584.0,121.0,92.0
-Cabecera,Hombre,4674.0,258.0,97.0,699.0,993.0,168.0,716.0,1116.0,117.0,0.0,9.0,119.0,57.0,232.0,47.0,46.0
-Cabecera,Mujer,5474.0,251.0,113.0,753.0,1051.0,216.0,790.0,1464.0,138.0,5.0,3.0,229.0,55.0,310.0,57.0,39.0
-Cabecera,Total,10148.0,509.0,210.0,1452.0,2044.0,384.0,1506.0,2580.0,255.0,5.0,12.0,348.0,112.0,542.0,104.0,85.0
-Rural disperso,Hombre,885.0,46.0,26.0,132.0,328.0,26.0,141.0,122.0,22.0,0.0,0.0,3.0,0.0,24.0,10.0,5.0
-Rural disperso,Mujer,779.0,21.0,17.0,120.0,242.0,42.0,130.0,142.0,22.0,1.0,1.0,9.0,5.0,18.0,7.0,2.0
-Rural disperso,Total,1664.0,67.0,43.0,252.0,570.0,68.0,271.0,264.0,44.0,1.0,1.0,12.0,5.0,42.0,17.0,7.0
+Area,Sexo,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,"Especializacion, Maestria, Doctorado",Sin informacion
+Cabecera,Hombre,258.0,97.0,699.0,993.0,168.0,716.0,1116.0,117.0,0.0,9.0,119.0,57.0,232.0,47.0,46.0
+Cabecera,Mujer,251.0,113.0,753.0,1051.0,216.0,790.0,1464.0,138.0,5.0,3.0,229.0,55.0,310.0,57.0,39.0
+Rural disperso,Hombre,46.0,26.0,132.0,328.0,26.0,141.0,122.0,22.0,0.0,0.0,3.0,0.0,24.0,10.0,5.0
+Rural disperso,Mujer,21.0,17.0,120.0,242.0,42.0,130.0,142.0,22.0,1.0,1.0,9.0,5.0,18.0,7.0,2.0
