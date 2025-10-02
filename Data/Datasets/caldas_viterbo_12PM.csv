@@ -1,4 +1,4 @@
-Grupo edad,Indigena,Gitano(a) o Rrom,"Raizal del Archipielago de San Andres, Providencia y Santa Catalina",Palenquero(a) de San Basilio,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",Ningun grupo etnico,Sin informacion,Area
+Grupo de edad,Indigena,Gitano(a) o Rrom,"Raizal del Archipielago de San Andres, Providencia y Santa Catalina",Palenquero(a) de San Basilio,"Negro(a), Mulato(a), Afrodescendiente, Afrocolombiano(a)",Ningun grupo etnico,Sin informacion,Area
 0-4 anios,4,0,0,0,10,502,3,cabecera
 5-9 anios,3,0,0,0,6,610,1,cabecera
 10-14 anios,5,0,0,0,5,766,3,cabecera
@@ -17,24 +17,24 @@ Grupo edad,Indigena,Gitano(a) o Rrom,"Raizal del Archipielago de San Andres, Pro
 75-79 anios,0,0,0,0,2,320,0,cabecera
 80-84 anios,1,0,0,0,1,193,1,cabecera
 85 anios y mas,1,0,0,0,2,156,1,cabecera
-0-4 anios,0,0,0,0,0,0,0,centro_poblado
-5-9 anios,0,0,0,0,0,0,0,centro_poblado
-10-14 anios,0,0,0,0,0,0,0,centro_poblado
-15-19 anios,0,0,0,0,0,0,0,centro_poblado
-20-24 anios,0,0,0,0,0,0,0,centro_poblado
-25-29 anios,0,0,0,0,0,0,0,centro_poblado
-30-34 anios,0,0,0,0,0,0,0,centro_poblado
-35-39 anios,0,0,0,0,0,0,0,centro_poblado
-40-44 anios,0,0,0,0,0,0,0,centro_poblado
-45-49 anios,0,0,0,0,0,0,0,centro_poblado
-50-54 anios,0,0,0,0,0,0,0,centro_poblado
-55-59 anios,0,0,0,0,0,0,0,centro_poblado
-60-64 anios,0,0,0,0,0,0,0,centro_poblado
-65-69 anios,0,0,0,0,0,0,0,centro_poblado
-70-74 anios,0,0,0,0,0,0,0,centro_poblado
-75-79 anios,0,0,0,0,0,0,0,centro_poblado
-80-84 anios,0,0,0,0,0,0,0,centro_poblado
-85 anios y mas,0,0,0,0,0,0,0,centro_poblado
+0-4 anios,0,0,0,0,0,0,0,centros_poblados
+5-9 anios,0,0,0,0,0,0,0,centros_poblados
+10-14 anios,0,0,0,0,0,0,0,centros_poblados
+15-19 anios,0,0,0,0,0,0,0,centros_poblados
+20-24 anios,0,0,0,0,0,0,0,centros_poblados
+25-29 anios,0,0,0,0,0,0,0,centros_poblados
+30-34 anios,0,0,0,0,0,0,0,centros_poblados
+35-39 anios,0,0,0,0,0,0,0,centros_poblados
+40-44 anios,0,0,0,0,0,0,0,centros_poblados
+45-49 anios,0,0,0,0,0,0,0,centros_poblados
+50-54 anios,0,0,0,0,0,0,0,centros_poblados
+55-59 anios,0,0,0,0,0,0,0,centros_poblados
+60-64 anios,0,0,0,0,0,0,0,centros_poblados
+65-69 anios,0,0,0,0,0,0,0,centros_poblados
+70-74 anios,0,0,0,0,0,0,0,centros_poblados
+75-79 anios,0,0,0,0,0,0,0,centros_poblados
+80-84 anios,0,0,0,0,0,0,0,centros_poblados
+85 anios y mas,0,0,0,0,0,0,0,centros_poblados
 0-4 anios,13,0,0,0,0,84,0,rural_disperso
 5-9 anios,7,0,0,0,0,115,0,rural_disperso
 10-14 anios,16,0,0,0,0,146,0,rural_disperso
