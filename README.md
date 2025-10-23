@@ -39,25 +39,25 @@
 - [Procesamiento de Datos](#procesamiento-de-datos)
     - [Herramientas](#herramientas)
 
-## 📖 Introducción
+## Introducción
 Durante el año 2018 se llevó al cabo el Censo Nacional de Población y Vivienda en Colombia, el cual “consistió en contar y caracterizar las personas residentes en Colombia, así como las viviendas y los hogares del territorio nacional” [DANE, 2018](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018). Dicho censo no solo contó el número de personas en el país, también recolectó datos de dónde y cómo viven sus ciudadanos.
 
-## 🚀 Objetivo
+## Objetivo
 Poner a disposición del público general una versión de fácil acceso a los datos del Censo Nacional de Población y Vivienda en Colombia del año 2018 del municipio de Viterbo Caldas.
 
-## 🔎 Alcance
+## Alcance
 Este proyecto solo considerará los datos del municipio de Viterbo, Caldas, los datos del resto del país están fuera del alcance.
 <br/>
 <br/>
 Este proyecto solo se tratará de la extracción de los datos, el proyecto no contempla ningún análisis sobre los datos.
 
-## ⬇️ Fuentes de Datos
+##  Fuentes de Datos
 Los datos para este proyecto fueron sustraídos de la [página oficial del Departamento Nacional de Estadística](https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/censo-nacional-de-poblacion-y-vivenda-2018), del ítem "Cuadros personas demográfico – CNPV 2018".
 
-### ✅ Licencia
+### Licencia
 El aprovechamiento de estos datos se rige por la Ley de Datos Abiertos colombiana, Ley 1712 de 2014.
 
-### ⚠️ Alcance
+### Alcance
 Los datos proporcionados son datos públicos recolectados por el DANE, no es posible la individualización de ningún ciudadano que haya proporcionado datos para el censo.
 <br/>
 <br/>
@@ -66,7 +66,7 @@ Los datos corresponden solamente a Colombia.
 <br/>
 Los datos corresponden solamente a las personas que fueron efectivamente encuestadas durante el censo.
 
-### 📂 Ubicación de los Datos en el Proyecto
+### Ubicación de los Datos en el Proyecto
 El archivo fuente estará en la ruta _Censo Viterbo Caldas 2018/Data/Original/_
 
 #### Lista de archivos fuente:
@@ -78,7 +78,7 @@ El archivo fuente estará en la ruta _Censo Viterbo Caldas 2018/Data/Original/_
 #### Datos Procesados
 Los datos preparados se almacenarán en la ruta _Censo Viterbo Caldas 2018/Data/Datasets/_  y tendrán la convención de nombre _departamento_municipio_hoja.csv_ y _departamento_municipio_total_hoja.csv_, ejemplo, _caldas_viterbo_1PM.csv_ o _caldas_viterbo_total_1PM.csv_.
 
-### 🧱 Estructura de los Datos Fuente
+### Estructura de los Datos Fuente
 El archivo fuente es un .xlsx que contiene 37 hojas, donde cada hoja contiene datos relacionados con un ítem, y pueden ser datos departamentales, municipales o totales nacionales.
 <br/>
 
@@ -473,9 +473,9 @@ Subgrupos:
 | Sin información                                          | Grupo con resumen de datos correspondiente a los censados de los cuales no se tiene información de su pertenencia étnica |
 | Total                                                    | Grupo con resumen total de datos                                                                                         |
 
-## ⚙️ Procesamiento de Datos
+## Procesamiento de Datos
 
-### 🛠️ Herramientas
+### Herramientas
 Fuentes de datos: Excel.
 
 Extracción y procesamiento de datos: Python.
