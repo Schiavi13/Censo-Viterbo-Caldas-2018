@@ -1,4 +1,4 @@
-Sexo,Area,Grupo de edad,Jefe(a) del hogar,"Pareja (Conyuge, companero(a), esposo(a))",Hijo(a),Hijastro(a),Yerno/nuera,Padre/madre,"Padrastro, madrastra",Suegro(a),Hermano(a),Hermanastro(a),Cunado(a),Nieto(a),Abuelo(a),Otro pariente,Empleado(a) del servicio domestico,No pariente
+sexo,area,grupo_de_edad,jefe(a)_del_hogar,pareja_(conyuge_companero(a)_esposo(a)),hijo(a),hijastro(a),yerno/nuera,padre/madre,padrastro_madrastra,suegro(a),hermano(a),hermanastro(a),cunado(a),nieto(a),abuelo(a),otro_pariente,empleado(a)_del_servicio_domestico,no_pariente
 Hombre,Cabecera,0 a 4,0,0,163,2,0,0,0,0,0,0,0,92,0,16,0,11
 Hombre,Cabecera,5 a 9,0,0,197,18,0,0,0,0,0,0,0,73,0,13,0,6
 Hombre,Cabecera,10 a 14,0,0,234,36,0,0,0,0,1,0,0,81,0,14,0,7
