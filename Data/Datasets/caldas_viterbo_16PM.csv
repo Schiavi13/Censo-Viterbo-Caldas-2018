@@ -1,4 +1,4 @@
-Area,Grupo de edad,Hombre,Mujer,Sabe_leer_y_escribir
+area,grupo_de_edad,hombre,mujer,sabe_leer_y_escribir
 Cabecera,De 5 anios y mas,4263,5076,si
 Cabecera,De 15 anios y mas,3666,4441,si
 Cabecera,Entre 15 y 24 anios,791,885,si
