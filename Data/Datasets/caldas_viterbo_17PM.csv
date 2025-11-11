@@ -1,4 +1,4 @@
-Area,Sexo,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,"Especializacion, Maestria, Doctorado",Sin informacion
+area,sexo,ninguno,preescolar,primaria_completa,primaria_incompleta,secundaria_completa,secundaria_incompleta,media_completa,media_incompleta,normal_completa,normal_incompleta,tecnico,tecnologico,universitario,especializacion_maestria_doctorado,sin_informacion
 Cabecera,Hombre,258.0,97.0,699.0,993.0,168.0,716.0,1116.0,117.0,0.0,9.0,119.0,57.0,232.0,47.0,46.0
 Cabecera,Mujer,251.0,113.0,753.0,1051.0,216.0,790.0,1464.0,138.0,5.0,3.0,229.0,55.0,310.0,57.0,39.0
 Rural disperso,Hombre,46.0,26.0,132.0,328.0,26.0,141.0,122.0,22.0,0.0,0.0,3.0,0.0,24.0,10.0,5.0

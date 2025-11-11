@@ -1,4 +1,4 @@
-Area,Sexo,Total,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,"Especializacion, Maestria, Doctorado",Sin informacion
+area,sexo,total,ninguno,preescolar,primaria_completa,primaria_incompleta,secundaria_completa,secundaria_incompleta,media_completa,media_incompleta,normal_completa,normal_incompleta,tecnico,tecnologico,universitario,especializacion_maestria_doctorado,sin_informacion
 Total,Hombre,5559.0,304.0,123.0,831.0,1321.0,194.0,857.0,1238.0,139.0,0.0,9.0,122.0,57.0,256.0,57.0,51.0
 Total,Mujer,6253.0,272.0,130.0,873.0,1293.0,258.0,920.0,1606.0,160.0,6.0,4.0,238.0,60.0,328.0,64.0,41.0
 Total,Total,11812.0,576.0,253.0,1704.0,2614.0,452.0,1777.0,2844.0,299.0,6.0,13.0,360.0,117.0,584.0,121.0,92.0
