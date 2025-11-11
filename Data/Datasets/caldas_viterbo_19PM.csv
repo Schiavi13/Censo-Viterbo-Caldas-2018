@@ -1,4 +1,4 @@
-Area,Sexo,Pertenencia etnica,Ninguno,Preescolar,Primaria Completa,Primaria Incompleta,Secundaria Completa,Secundaria Incompleta,Media Completa,Media Incompleta,Normal Completa,Normal Incompleta,Tecnico,Tecnologico,Universitario,Especializacion - Doctorado,Sin Informacion
+area,sexo,pertenencia_etnica,ninguno,preescolar,primaria_completa,primaria_incompleta,secundaria_completa,secundaria_incompleta,media_completa,media_incompleta,normal_completa,normal_incompleta,tecnico,tecnologico,universitario,especializacion_doctorado,sin_informacion
 Cabecera,Hombre,Indigena,0.0,0.0,5.0,9.0,0.0,4.0,7.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0
 Cabecera,Hombre,Gitano(a) o Rrom,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 Cabecera,Hombre,Palenquero(a) de San Basilio,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
