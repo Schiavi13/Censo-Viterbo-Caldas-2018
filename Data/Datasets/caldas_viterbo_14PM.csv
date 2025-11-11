@@ -1,4 +1,4 @@
-Sexo,Grupo de edad,Si,No,Sin informacion enfermedad ultimos 30 dias,Sin informacion servicio de salud donde acudieron,A la entidad de seguridad social en salud a la cual esta afliado(a),A un medico particular,"A un boticario,farmaceuta, droguista",A terapias alternativas,Acudio a una autoridad indigena espiritual,Otro medico de un grupo etnico,Uso remedios caseros,Se autorreceto,No hizo nada,Area
+sexo,grupo_de_edad,si,no,sin_informacion_enfermedad_ultimos_30_dias,sin_informacion_servicio_de_salud_donde_acudieron,a_la_entidad_de_seguridad_social_en_salud_a_la_cual_esta_afliado(a),a_un_medico_particular,"a_un_boticario,farmaceuta,_droguista",a_terapias_alternativas,acudio_a_una_autoridad_indigena_espiritual,otro_medico_de_un_grupo_etnico,uso_remedios_caseros,se_autorreceto,no_hizo_nada,area
 Hombres,0-4 anios,34,248,2,0,26,4,3,0,0,0,1,0,0,cabecera
 Hombres,5-9 anios,24,282,1,1,19,1,0,0,0,0,2,0,1,cabecera
 Hombres,10-14 anios,19,353,1,0,16,0,1,0,0,0,1,1,0,cabecera
